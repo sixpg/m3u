@@ -556,8 +556,6 @@ https://fucking-tv-ott.keralive.workers.dev/mumt02/ANANDAMTV/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt02/ABITV/index.m3u8
 #EXTINF:-1 tvg-name="JP Music TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-2-2025-08_45_26-AM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",JP Music TV
 https://app.ashokadigital.net/app/2ef5ef74/index.m3u8
-#EXTINF:-1 tvg-name="KCN HD" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_16_14-PM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",KCN HD
-https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
 #EXTINF:-1 tvg-name="Garudan TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_13_33-PM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",Garudan TV
 https://play.applelive.in/hls/garudantv.m3u8
 #EXTINF:-1 tvg-name="VTV Entertainment" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-10_03_13-PM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",VTV Entertainment
@@ -1691,8 +1689,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770366458050999_BLIGA_26_MD23_Heidenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" group-title="SonyLiv | Sports",Heidenheim vs VfB Stuttgart - MD 23 - 22 Feb 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771825821~acl=/*~id=96538586339432512703270878214494~hmac=327368a9dbbd56accf763cf51a7a411c8c560a467f017ba12e9ef7a594ed5c6d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014972/1770363079049999_BLIGA_26_MD23_St-Pauli-vs-Werder-Bremen_landscape_thumb.jpg" group-title="SonyLiv | Sports",St. Pauli vs Werder Bremen - MD 23 - 22 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771824002~acl=/*~id=10732259869534800369500250921282~hmac=8dc0a3b12dec2a865c2f7fdc05db8d3403fdaae63f89b89c3752bc8cd9489535
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771825821~acl=/*~id=96538586339432512703270878214494~hmac=327368a9dbbd56accf763cf51a7a411c8c560a467f017ba12e9ef7a594ed5c6d
 
 # ---------------=== FanCode | Sports ===-------------------
 
