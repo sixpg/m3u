@@ -386,6 +386,8 @@ https://manatv.akamaized.net/090823/smil:manatvint.smil/index.m3u8
 
 # ---------------=== CS 📺 | Local Channel Tamil ===-------------------
 
+#EXTINF:-1 tvg-name="Anbu TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-23-2026-11_36_20-AM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",Anbu TV
+https://rtmp.bmlive.net/bms/anbutvhd/index.m3u8
 #EXTINF:-1 tvg-name="Durai Melodies" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-12_04_57-PM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",Durai Melodies
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 #EXTINF:-1 tvg-name="KM Music" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-17-2026-11_37_02-AM-1-185x278.png" group-title="CS 📺 | Local Channel Tamil",KM Music
