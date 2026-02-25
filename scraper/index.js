@@ -7,12 +7,12 @@ const OUTPUT_FILE = "stream.m3u";
 const SOURCES = {
   HOTSTAR_M3U: "https://voot.vodep39240327.workers.dev?voot.m3u",
   ZEE5_M3U: "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u",
-  EXTRA_M3U: "https://od.lk/s/MzZfODQzNTQ1Nzlf/raw?=m3u",
-  JIO_JSON: "https://raw.githubusercontent.com/vaathala00/jo/main/stream.jso",
+  EXTRA_M3U: "https://m3you.vodep39240327.workers.dev",
+  JIO_JSON: "https://raw.githubusercontent.com/vaathala00/jo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://allinonereborn.online/fctest/json/fancode_latest.json",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.json",
-  SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.jso",
+  SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.json",
 
 // ✅ NEW LOCAL TAMIL CHANNEL PAGES
   LOCAL_JSON: [
