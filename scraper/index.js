@@ -10,7 +10,7 @@ const SOURCES = {
   EXTRA_M3U: "https://od.lk/s/MzZfODQzNTQ1Nzlf/raw?=m3u",
   JIO_JSON: "https://raw.githubusercontent.com/vaathala00/jo/main/stream.jso",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
-  FANCODE_JSON: "https://raw.githubusercontent.com/jitendra-unatti/fancode/refs/heads/main/data/fancode.m3u",
+  FANCODE_JSON: "https://allinonereborn.online/fctest/json/fancode_latest.json",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.json",
   SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.jso",
 
