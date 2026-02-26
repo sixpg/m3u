@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772151812~acl=/*~id=20641028814108560557153543143516~hmac=08beb340d5632c91b0ce40ff977f45132b05aba0699749999f46ff881ccdee7e
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772156662~acl=/*~id=86096305505454645636569984400371~hmac=0867140b3bb500ab32f23bbab356957b4b217115cf82f05d04ba3b022b173721
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7676,18 +7676,24 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772150600~acl=/*~id=95701404026229212951464444400507~hmac=82581a3bfacf846fc592fbe9f3bf880a4a927959a9126bcdab84d9fb9300917a
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772156056~acl=/*~id=43090444346740902780216623063876~hmac=aeccab42d968accb9c797ec5705f18c9f215b2395db37ede0caa01d78b764f36
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",New Court 1
-https://in-mc-fdlive.fancode.com/mumbai/140348_english_hls_da7da4a9aa62279_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg" group-title="FanCode | Sports",FC Goa vs Sporting Club Delhi
+https://in-mc-fdlive.fancode.com/mumbai/140445_english_hls_4594eb7c9a5499_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",World Feed
 https://in-mc-fdlive.fancode.com/mumbai/140901_english_hls_5c0bd4cf9c69882_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140900_english_hls_3ef58d911f71613_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Main Feed - Day 1
 https://in-mc-fdlive.fancode.com/mumbai/140764_english_hls_f3471073d849721_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Groups - Day 1
+https://in-mc-fdlive.fancode.com/mumbai/140766_english_hls_92599d6e3a99806_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Marquee Group - Day 1
+https://in-mc-fdlive.fancode.com/mumbai/140765_english_hls_6a56e82b3860399_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Holes - Day 1
+https://in-mc-fdlive.fancode.com/mumbai/140767_english_hls_cb35a81a7790793_1ta-di_h264/index.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
