@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772156662~acl=/*~id=86096305505454645636569984400371~hmac=0867140b3bb500ab32f23bbab356957b4b217115cf82f05d04ba3b022b173721
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772159734~acl=/*~id=72934757504361379447400637549459~hmac=904fa2edabf133f115e3ce3237386fa2a9e36f3d9c3c0f7746c5bf002ec6e447
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7676,7 +7676,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772156056~acl=/*~id=43090444346740902780216623063876~hmac=aeccab42d968accb9c797ec5705f18c9f215b2395db37ede0caa01d78b764f36
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772157267~acl=/*~id=35823887631105923336051454496846~hmac=94858d975f3032da69c8e5e7e818bc47be619fec3124a2c3685289386ebeef5a
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7719,7 +7719,7 @@ https://c2ag.short.gy/n/hin.m3u8
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/tamil.m3u8
 
-#EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
+#EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Malayalam
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/mal.m3u8
 
@@ -7736,8 +7736,12 @@ https://c2ag.short.gy/n/telugu.m3u8
 https://c2ag.short.gy/n/kan.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Bhojpuri
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
 https://c2ag.short.gy/n/bih.m3u8
+
+#EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Bengali
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)"}
+https://c2ag.short.gy/n/ben.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://img.u0k.workers.dev/joinvaathala1.webp",Star-English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
