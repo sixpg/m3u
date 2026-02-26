@@ -6938,7 +6938,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772146361~acl=/*~id=38980543151784982948156421923242~hmac=9ca6cbc3b0495c020c7e79a8c9a5f124ecae63a2d257e4a51fa0e38f70dd82dc
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772148782~acl=/*~id=94766674531427735220989699494339~hmac=bc9b6515d133681806b36054cfa32d19f5cd2e0a84a1e2bd5e609e23316555be
+
+# ---------------=== FanCode | Sports ===-------------------
+
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7672,7 +7676,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847623421812_DP_World_Day1_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 1 - 26 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772144542~acl=/*~id=19623179079802511897446205524600~hmac=20491590b37aeb2c67b95a5f02e2ce941c5f90cf09291028b6a17917766ea754
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772148177~acl=/*~id=48714909912053765757523502379506~hmac=455f1fbad2b0c8bf8f3ec8b7170938c247696d228a4db36659f85e7fede57ce8
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7682,6 +7686,8 @@ https://in-mc-fdlive.fancode.com/mumbai/140348_english_hls_da7da4a9aa62279_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/140901_english_hls_5c0bd4cf9c69882_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140900_english_hls_3ef58d911f71613_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Main Feed - Day 1
+https://in-mc-fdlive.fancode.com/mumbai/140764_english_hls_f3471073d849721_1ta-di_h264/index.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
