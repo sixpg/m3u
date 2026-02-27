@@ -6937,8 +6937,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd T20I - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772227723~acl=/*~id=97553280759535624730151451803235~hmac=63ef4a77435d61ad1409d4720b2c2d6dcf8260c404f4c70f9d3725d56b213303
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7671,21 +7670,18 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015614/1772094832114709_NZw_vs_ZIMw_2ndT20i_landscape_thumb.jpg" group-title="SonyLiv | Sports",2nd T20I - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772225298~acl=/*~id=99342331800570606886661318443171~hmac=cbc6c89df11b11bb847058e4f9f29ff99dd61196a53c2eb5d5ef2720979ca78f
+
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg" group-title="FanCode | Sports",New Zealand Women vs Zimbabwe Women
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772215705~acl=/*~id=12506232533695838249953458149213~hmac=05b21a65a20c1336c4166e7c3440d1ff042a5aa0c978e6783bbf91a70640f5e5
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" group-title="FanCode | Sports",England Lions vs Pakistan Shaheens
 https://in-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg" group-title="FanCode | Sports",Bahrain vs Thailand
 https://in-mc-fdlive.fancode.com/mumbai/140674_english_hls_542878262328580_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png" group-title="FanCode | Sports",Melbourne Victory vs Adelaide United
 https://in-mc-fdlive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="FanCode | Sports",Thailand GP
-https://in-mc-fdlive.fancode.com/mumbai/139924_english_hls_df8a015c4f81523_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
+https://in-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
