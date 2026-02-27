@@ -6937,11 +6937,6 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772247755~acl=/*~id=84701898705872217006256920515008~hmac=e0cea11e9eb245cbe5fc88b7f5d6058712ccaeb695089e64695d504e96526aff
-
-# ---------------=== FanCode | Sports ===-------------------
-
 
 
 # ---------------=== Other Channels ===-------------------
@@ -7676,24 +7671,30 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772247149~acl=/*~id=43133851071218499726463967975683~hmac=7685610ac6dea548cd6f7f2845719a530cb2fe6e7d14e9ba2f7d6b02060e6641
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772247755~acl=/*~id=84701898705872217006256920515008~hmac=e0cea11e9eb245cbe5fc88b7f5d6058712ccaeb695089e64695d504e96526aff
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru FC vs Punjab FC
-https://in-mc-fdlive.fancode.com/mumbai/140447_english_hls_c3582d2f4685935_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
+https://allinonereborn.online/fctest/playlists/match_140447/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
+https://allinonereborn.online/fctest/playlists/match_140447/hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
+https://allinonereborn.online/fctest/playlists/match_140447/malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
+https://allinonereborn.online/fctest/playlists/match_140447/bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
-https://in-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Holes - Day 2
-https://in-mc-fdlive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Main Feed - Day 2
-https://in-mc-fdlive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Marquee Group - Day 2
-https://in-mc-fdlive.fancode.com/mumbai/140772_english_hls_7d19d0c42281632_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Groups - Day 2
-https://in-mc-fdlive.fancode.com/mumbai/140771_english_hls_3f25065abb28481_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fctest/playlists/match_140349/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Holes   Day 2
+https://allinonereborn.online/fctest/playlists/match_140770/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Main Feed   Day 2
+https://allinonereborn.online/fctest/playlists/match_140769/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Marquee Group   Day 2
+https://allinonereborn.online/fctest/playlists/match_140772/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Groups   Day 2
+https://allinonereborn.online/fctest/playlists/match_140771/english.m3u8
 #EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",World Feed
-https://in-mc-fdlive.fancode.com/mumbai/140902_english_hls_fef36d5c5380265_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fctest/playlists/match_140902/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
