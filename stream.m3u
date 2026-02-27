@@ -6938,9 +6938,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg" group-title="SonyLiv | Sports",Round of 16, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772234382~acl=/*~id=65246242269112298816353176289398~hmac=28dc8c6871cc241e1f81e129d292cb0ce005eff06000a59b7dc247ea4e6e0646
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772232565~acl=/*~id=47393842285628414526845891590329~hmac=b00e6bc2e46a098c99ae9075e13b40219c18a7e192b1a12b0744e8c699446c04
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772234382~acl=/*~id=65246242269112298816353176289398~hmac=28dc8c6871cc241e1f81e129d292cb0ce005eff06000a59b7dc247ea4e6e0646
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7674,16 +7674,18 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015612/1772091081592940_UCL26_RD16_QF_SF_Draw_25feb1_landscape_thumb.jpg" group-title="SonyLiv | Sports",Round of 16, Quarter-final and Semi-final Draw - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772234382~acl=/*~id=65246242269112298816353176289398~hmac=28dc8c6871cc241e1f81e129d292cb0ce005eff06000a59b7dc247ea4e6e0646
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772231959~acl=/*~id=07257112252443262275897307373286~hmac=97c1701bef1ab9fff664e9aaba0a118b31c907f055919b9916c46e90ac01ddd6
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772234382~acl=/*~id=65246242269112298816353176289398~hmac=28dc8c6871cc241e1f81e129d292cb0ce005eff06000a59b7dc247ea4e6e0646
 
 # ---------------=== FanCode | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png" group-title="FanCode | Sports",England Lions vs Pakistan Shaheens
 https://in-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png" group-title="FanCode | Sports",Melbourne Victory vs Adelaide United
-https://in-mc-fdlive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web-(2).jpg" group-title="FanCode | Sports",East Bengal FC vs Jamshedpur FC
+https://in-mc-fdlive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web-(1).jpg" group-title="FanCode | Sports",East Bengal FC vs Jamshedpur FC
+https://in-mc-fdlive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
 https://in-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8
 
