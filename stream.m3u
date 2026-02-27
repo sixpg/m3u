@@ -7674,14 +7674,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
-https://allinonereborn.online/fctest/playlists/match_140447/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
-https://allinonereborn.online/fctest/playlists/match_140447/hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
-https://allinonereborn.online/fctest/playlists/match_140447/malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru Fc Vs Punjab Fc
-https://allinonereborn.online/fctest/playlists/match_140447/bengali.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg" group-title="FanCode | Sports",Vredenburg/saldanha Cc Vs Van Der Stel Cricket Club
+https://allinonereborn.online/fctest/playlists/match_140689/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
 https://allinonereborn.online/fctest/playlists/match_140349/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Holes   Day 2
@@ -7694,6 +7688,8 @@ https://allinonereborn.online/fctest/playlists/match_140772/english.m3u8
 https://allinonereborn.online/fctest/playlists/match_140771/english.m3u8
 #EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",World Feed
 https://allinonereborn.online/fctest/playlists/match_140902/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png" group-title="FanCode | Sports",Court Jaime Fillol
+https://allinonereborn.online/fctest/playlists/match_140361/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
