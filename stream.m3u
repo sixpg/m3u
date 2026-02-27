@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772245327~acl=/*~id=46822739049718776033604110560946~hmac=1d081108d1ebdd589bac4b4aec2e810ab573d46bd0d10e2373c82808a31106ae
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772247755~acl=/*~id=84701898705872217006256920515008~hmac=e0cea11e9eb245cbe5fc88b7f5d6058712ccaeb695089e64695d504e96526aff
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -7676,12 +7676,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847908906812_DP_World_Day2_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 2 - 27 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772244114~acl=/*~id=55539534153408731931424077213080~hmac=54ecc4d9f69922e14666609b5f66b4ce17b2c1a30e3dd8a79c00ef5c1d31140f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772247149~acl=/*~id=43133851071218499726463967975683~hmac=7685610ac6dea548cd6f7f2845719a530cb2fe6e7d14e9ba2f7d6b02060e6641
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg" group-title="FanCode | Sports",Paarl CC vs Paarl East Cricket Club
-https://in-mc-fdlive.fancode.com/mumbai/140688_english_hls_d8e850d5db29569_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140447_5956_BFC_PFC_fc-web_1771412946547.jpg" group-title="FanCode | Sports",Bengaluru FC vs Punjab FC
 https://in-mc-fdlive.fancode.com/mumbai/140447_english_hls_c3582d2f4685935_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
