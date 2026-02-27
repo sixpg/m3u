@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770452673955953_BLIGA_26_Augsburg-vs-FC-Koln__landscape_thumb.jpg" group-title="SonyLiv | Sports",FC Augsburg vs FC Koln - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772268949~acl=/*~id=08194676578283125533742554723339~hmac=2ffecc3ec6fed2f00c5656b0e08eb8707db01cd9751108b69fefcd7a4af8ba9c
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772270764~acl=/*~id=52805690638518676747807339974637~hmac=741dc7d0be6d25fb49393151387385d80991b6f5f1c521acf9b17a6cd5e9cbd4
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7672,12 +7672,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015083/1770452673955953_BLIGA_26_Augsburg-vs-FC-Koln__landscape_thumb.jpg" group-title="SonyLiv | Sports",FC Augsburg vs FC Koln - MD 24 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772268344~acl=/*~id=41218004968881033165965475745102~hmac=ca98f388b5d962a6f46346c9108a45046361063c11ec4d4520a8252329ac9512
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772270159~acl=/*~id=57348603155646858500504942959710~hmac=f483370ba99efc308222e720d0cfce8ad2d1ab7db2012df204ec0f75187975e0
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140702_5655_ASF_AHS_fc-web.jpg" group-title="FanCode | Sports",Al Shabab Fc Vs Al Hilal Sfc
-https://allinonereborn.online/fctest/playlists/match_140702/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131088_5427_LE_ALA_FC-Web.png" group-title="FanCode | Sports",Levante Vs Deportivo Alaves
 https://allinonereborn.online/fctest/playlists/match_131088/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140128_5489_BRI_WAT_fc-web.jpg" group-title="FanCode | Sports",Bristol City F.c. Vs Watford F.c.
