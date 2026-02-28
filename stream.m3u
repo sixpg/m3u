@@ -7674,6 +7674,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg" group-title="FanCode | Sports",Bhutan Vs Thailand
+https://allinonereborn.online/fctest/playlists/match_140675/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139419_5802_AFC_MLC_1770724032867.png" group-title="FanCode | Sports",Auckland Vs Melbourne City
+https://allinonereborn.online/fctest/playlists/match_139419/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",World Feed
 https://allinonereborn.online/fctest/playlists/match_140356/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",Estadio
@@ -7682,6 +7686,8 @@ https://allinonereborn.online/fctest/playlists/match_140843/english.m3u8
 https://allinonereborn.online/fctest/playlists/match_140842/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="FanCode | Sports",Thailand Gp
 https://allinonereborn.online/fctest/playlists/match_139925/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg" group-title="FanCode | Sports",Day 1
+https://allinonereborn.online/fctest/playlists/match_140783/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
