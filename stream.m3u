@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847922617812_DP_World_Day3_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 3 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772324622~acl=/*~id=36735167865877166723364877433214~hmac=0e3972e67ed05de03cce4669ddd9e6e754fcf612574bd389ccdf2c82d436c60c
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772327043~acl=/*~id=57068066164547778460844477655726~hmac=5a76d499442d4fdc55424cb2bb11ddfe55802b0e61a113d0fcecc53ed6d67888
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7672,10 +7672,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015524/1771847922617812_DP_World_Day3_Investec-South-African-Open-Championship_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 3 - 28 Feb 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772322807~acl=/*~id=24301205312971350777467079363092~hmac=990373087a4604d940205c2ba764543c6246de69b6b2773eeb8d3feb55c1e927
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772327043~acl=/*~id=57068066164547778460844477655726~hmac=5a76d499442d4fdc55424cb2bb11ddfe55802b0e61a113d0fcecc53ed6d67888
 
 # ---------------=== FanCode | Sports ===-------------------
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140691_5968_MAT_VDS_FC-Web.jpg" group-title="FanCode | Sports",Maties Cricket Club Vs Vredenburg/saldanha Cc
+https://allinonereborn.online/fctest/playlists/match_140691/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140448_5956_KBFC_IK_fc-web-(1).jpg" group-title="FanCode | Sports",Kerala Blasters Fc Vs Inter Kashi Fc
 https://allinonereborn.online/fctest/playlists/match_140448/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140448_5956_KBFC_IK_fc-web-(1).jpg" group-title="FanCode | Sports",Kerala Blasters Fc Vs Inter Kashi Fc
@@ -7686,6 +7688,16 @@ https://allinonereborn.online/fctest/playlists/match_140448/malayalam.m3u8
 https://allinonereborn.online/fctest/playlists/match_140448/bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140448_5956_KBFC_IK_fc-web_1772199010518.jpg" group-title="FanCode | Sports",Kerala Blasters Fc Vs Inter Kashi Fc
 https://allinonereborn.online/fctest/playlists/match_141087/malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140129_5489_LEI_NOR_fc-web.jpg" group-title="FanCode | Sports",Leicester City F.c. Vs Norwich City F.c.
+https://allinonereborn.online/fctest/playlists/match_140129/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Main Feed   Day 3
+https://allinonereborn.online/fctest/playlists/match_140774/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg" group-title="FanCode | Sports",Centre Court
+https://allinonereborn.online/fctest/playlists/match_140350/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Featured Groups   Day 3
+https://allinonereborn.online/fctest/playlists/match_140776/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",Marquee Group   Day 3
+https://allinonereborn.online/fctest/playlists/match_140775/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
@@ -8054,7 +8066,25 @@ _________VT 🎬 | Tamil Movies_______
 
 
 #EXTINF:-1 group-logo="" group-title="VT 🎬 | Tamil Movies" tvg-logo="https://marketplace.canva.com/EAGFGXfhSPI/1/0/1131w/canva-red-yellow-creative-movie-night-flyer-QKLXth_cpRw.jpg" ,#AAY
-https://bq32.short.gy/aaa.mkv
+https://tentkotta.short.gy/aaa.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIwNGU2ZGQtMWZkOS00YzdiLTkwYzktZjUxYWY4MTkzY2IzXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Gandhi Talks (𝗜𝗠𝗗𝗕 6.6 2026 ‧ Comedy\\Drama\\Hindi ‧ 2h 10m Director Kishor Pandurang Belekar | Writers Kishor Pandurang Belekar | Stars Vijay Sethupathi ‧ Aditi Rao Hydari ‧ Mahesh Manjrekar)
+https://tentkotta.short.gy/AgADWB5903.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJlZDlmNTgtMDA0MS00ZWZlLWJkN2EtOWQzZWEyYTA0ZTVkXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Honey (𝗜𝗠𝗗𝗕 6 2026 ‧ Horror\\Thriller\\Psychological Horror\\Telugu ‧ 2h 0m Director Karuna Kumar | Writers Karuna Kumar | Stars Naveen Chandra ‧ Divya Pillai ‧ Divi Vadthya)
+https://tentkotta.short.gy/AgADnS5888.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU0ZDIxZGYtMDI1YS00ZDhiLWI4NDUtY2FmMTkxYjY2OTc2XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Ondimuniyum Nallapaadanum (𝗜𝗠𝗗𝗕 8.7 2025 ‧ Tamil\\Drama ‧ 2h 1m Director Sugavanam | Writers Sugavanam | Stars Karthikesan ‧ Murugan ‧ Parotta Murugesan)
+https://tentkotta.short.gy/AgAEHA5901.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Lucky the Superstar (𝗜𝗠𝗗𝗕 6.1 2026 ‧ Tamil\\Drama ‧ 2h 2m Director Udhayabanu Maheshwaran | Writers G. Naren Kumar ‧ Udhayabanu Maheshwaran ‧ Sabhapathy Shanmugam | Stars G.V. Prakash Kumar ‧ Anaswara Rajan ‧ Meghna Sumesh)
+https://tentkotta.short.gy/AgADah5899.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Hotspot 2 Much (𝗜𝗠𝗗𝗕 5.9 2026 ‧ Tamil\\Comedy ‧ 2h 0m Director Vignesh Karthick | Writers Vignesh Karthick | Stars Niranjan Moses ‧ Paresh Kumar ‧ Rekha)
+https://tentkotta.short.gy/AgADaB5880.mkv
+
+#EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwZTNkYjItNWMwNy00YzRhLWIwNjgtMmUyYTAwMjRmOWE0XkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Chatha Pacha (𝗜𝗠𝗗𝗕 6.5 2026 ‧ Action\\Comedy\\Drama\\Sport\\Malayalam ‧ 2h 14m Director Adhvaith Nayar | Writers Adhvaith Nayar ‧ Sanoop Thykoodam | Stars Mammootty ‧ Arjun Ashokan ‧ Roshan Mathew)
+https://tentkotta.short.gy/AgADxx5897.mkv
 
 #EXTINF:-1 type="movie" group-logo="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZkMTg0ODItOGRkOS00YjZjLWFiMDctNWFkYjZlNmMwMmFjXkEyXkFqcGc@._V1_.jpg" group-title="VT 🎬 | Tamil Movies",Baby Girl (𝗜𝗠𝗗𝗕 6.2 2026 ‧ Drama\\Family\\Thriller\\Malayalam ‧ 2h 4m Director Arun Varma | Writers Bobby ‧ Sanjay | Stars Nivin Pauly ‧ Lijo Mol Jose ‧ Alphy Panjikaran)
 https://tentkotta.short.gy/AgADax5872.mkv
@@ -12838,6 +12868,26 @@ https://player.mrfooll.xyz/116614/vt.mkv?hash=AgADwg
 
 
 _________VT 🎬 | Web Series Movies_______
+
+# Sattamum Needhiyum
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP01 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADmh5905.mkv
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP02 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADnR5907.mkv
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP03 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADoB5909.mkv
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP04 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADoh5911.mkv
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP05 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADpB5913.mkv
+
+#EXTINF:-1 type="series"  group-logo="" tvg-logo="https://i.ibb.co/CKJP4RVj/0750x1125z5poster-1772160675.avif" group-title="Thadayam",S01 EP06 • Thadayam (𝗜𝗠𝗗𝗕 7.2 2026 ‧ Tamil\\Crime\\Drama\\Thriller ‧ N/A Director N/A | Writers N/A | Stars Samuthirakani ‧ Sshivada)
+https://tentkotta.short.gy/AgADph5915.mkv
 
 # Sattamum Needhiyum
 
