@@ -7674,8 +7674,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png" group-title="FanCode | Sports",Hong Kong, China Vs Kuwait
-https://allinonereborn.online/fctest/playlists/match_140881/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg" group-title="FanCode | Sports",Japan Vs Bahrain
 https://allinonereborn.online/fctest/playlists/match_140676/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140693_5968_PECC_MAT_FC-Web.jpg" group-title="FanCode | Sports",Paarl East Cricket Club Vs Maties Cricket Club
@@ -7684,10 +7682,6 @@ https://allinonereborn.online/fctest/playlists/match_140690/english.m3u8
 https://allinonereborn.online/fctest/playlists/match_139420/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139421_5802_BRB_PG_1770724192241.png" group-title="FanCode | Sports",Brisbane Roar Vs Perth Glory
 https://allinonereborn.online/fctest/playlists/match_139421/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",World Feed
-https://allinonereborn.online/fctest/playlists/match_140356/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",Estadio
-https://allinonereborn.online/fctest/playlists/match_140843/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="FanCode | Sports",Thailand Gp
 https://allinonereborn.online/fctest/playlists/match_139925/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg" group-title="FanCode | Sports",Day 1
