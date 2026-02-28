@@ -7676,8 +7676,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg" group-title="FanCode | Sports",Bhutan Vs Thailand
 https://allinonereborn.online/fctest/playlists/match_140675/english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1771899776744/140881_CASACARDS_APP.png" group-title="FanCode | Sports",Hong Kong, China Vs Kuwait
+https://allinonereborn.online/fctest/playlists/match_140881/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139419_5802_AFC_MLC_1770724032867.png" group-title="FanCode | Sports",Auckland Vs Melbourne City
 https://allinonereborn.online/fctest/playlists/match_139419/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139420_5802_CCM_NJ_1770724113403.png" group-title="FanCode | Sports",Central Coast Mariners Vs Newcastle Jets
+https://allinonereborn.online/fctest/playlists/match_139420/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",World Feed
 https://allinonereborn.online/fctest/playlists/match_140356/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg" group-title="FanCode | Sports",Estadio
