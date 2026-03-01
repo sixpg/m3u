@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 4 - 1 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772401050~acl=/*~id=65349930927919976793574249327847~hmac=b9b1e47d3551094a68dc3b31cfa2054136756aa1591fcfa4b6cd5ef7026d9997
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772402260~acl=/*~id=18911410542677448389231894858030~hmac=169ef8f1bed61b27532b0acc1202651303aea805ef525af7f2b8f87dec04d5b1
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7672,16 +7672,14 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 4 - 1 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772399235~acl=/*~id=34192231802673606758518623108549~hmac=290d0fac430871e5fa311372288a606d87554b83ee4557bf118bb841bacbaa75
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772401655~acl=/*~id=03317750183249586371438888143286~hmac=8c7bb11096ecf0f133a472773b55cef2dd01375a4f2a0a3116f4654549760207
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1771899776744/140882_CASACARDS_APP.png" group-title="FanCode | Sports",ENGLISH- Hong Kong, China Vs Kuwait
-https://allinonereborn.online/fcdata/playlists/match_140882/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg" group-title="FanCode | Sports",ENGLISH- Van Der Stel Cricket Club Vs Paarl East Cricket Club
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" group-title="FanCode | Sports",ENGLISH- Van Der Stel Cricket Club Vs Paarl East Cricket Club
 https://allinonereborn.online/fcdata/playlists/match_140693/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="FanCode | Sports",ENGLISH- Thailand Gp
-https://allinonereborn.online/fcdata/playlists/match_139926/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140794_5979_AUS-W_PHI-W_fc-Web_1772191702164.jpg" group-title="FanCode | Sports",ENGLISH- Australia Women Vs Philippines Women
+https://allinonereborn.online/fcdata/playlists/match_140794/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
