@@ -337,7 +337,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="ZEE5 | Live",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/Zee-Tamil-HD/index-connected.m3u8?hdntl=exp=1772438093~acl=/*~id=20b6a909-9d3b-4a02-9b18-daa172bbb24a~data=hdntl~hmac=69c8f567025a5a7cd6522459d02888c4e99bd8d6f5034efe1810410d5c5e55cf
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index.m3u8?hdntl=exp=1772438093~acl=/*~id=20b6a909-9d3b-4a02-9b18-daa172bbb24a~data=hdntl~hmac=69c8f567025a5a7cd6522459d02888c4e99bd8d6f5034efe1810410d5c5e55cf
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="ZEE5 | Live",Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
@@ -7306,7 +7306,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="ZEE5 | Live",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/Zee-Tamil-HD/index-connected.m3u8?hdntl=exp=1772438093~acl=/*~id=20b6a909-9d3b-4a02-9b18-daa172bbb24a~data=hdntl~hmac=69c8f567025a5a7cd6522459d02888c4e99bd8d6f5034efe1810410d5c5e55cf
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index.m3u8?hdntl=exp=1772438093~acl=/*~id=20b6a909-9d3b-4a02-9b18-daa172bbb24a~data=hdntl~hmac=69c8f567025a5a7cd6522459d02888c4e99bd8d6f5034efe1810410d5c5e55cf
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="ZEE5 | Live",Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
