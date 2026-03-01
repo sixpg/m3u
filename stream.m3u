@@ -7674,22 +7674,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg" group-title="FanCode | Sports",ENGLISH- West Indies Women Vs Sri Lanka Women
-https://allinonereborn.online/fctest/playlists/match_140141/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140692_5968_VDS_PRC_FC-Web.jpg" group-title="FanCode | Sports",ENGLISH- Vredenburg/saldanha Cc Vs Paarl Cc
-https://allinonereborn.online/fctest/playlists/match_140692/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131087_5427_MRC_RS_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Rcd Mallorca Vs Real Sociedad
-https://allinonereborn.online/fctest/playlists/match_131087/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Main Feed   Day 3
-https://allinonereborn.online/fctest/playlists/match_140774/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Featured Groups   Day 3
-https://allinonereborn.online/fctest/playlists/match_140776/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Marquee Group   Day 3
-https://allinonereborn.online/fctest/playlists/match_140775/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Featured Holes   Day 3
-https://allinonereborn.online/fctest/playlists/match_140777/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- World Feed   Day 3
-https://allinonereborn.online/fctest/playlists/match_140773/english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1771899776744/140882_CASACARDS_APP.png" group-title="FanCode | Sports",ENGLISH- Hong Kong, China Vs Kuwait
+https://allinonereborn.online/fctest/playlists/match_140882/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png" group-title="FanCode | Sports",ENGLISH- Thailand Gp
+https://allinonereborn.online/fctest/playlists/match_139926/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
