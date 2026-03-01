@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 4 - 1 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772413756~acl=/*~id=46995343312458040500594170112001~hmac=7983946ad28f708bad26a06615e1fc83d83076b3a556379730d0aa963e168ad2
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772415573~acl=/*~id=45560403618178473644252374783789~hmac=310efa63c50de2257e708a0c2495481e1ef35238e038e54abcc9880a2f637bf3
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7672,37 +7672,28 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015688/1772277910909225_DP_World_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Investec South African Open Day 4 - 1 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772413151~acl=/*~id=42517710539318290899775758305861~hmac=c5cbc1f0ccd171d87161817bed93ec21add114e5b1f939903854b7857367c031
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772415573~acl=/*~id=45560403618178473644252374783789~hmac=310efa63c50de2257e708a0c2495481e1ef35238e038e54abcc9880a2f637bf3
 
 # ---------------=== FanCode | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png" group-title="FanCode | Sports",ENGLISH- Maties Cricket Club Vs Paarl East Cricket Club
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://allinonereborn.online/fcdata/playlists/match_140694/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg" group-title="FanCode | Sports",ENGLISH- Odisha Fc Vs Chennaiyin Fc
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Elche Cf Vs Rcd Espanyol
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_140450/english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg" group-title="FanCode | Sports",HINDI- Odisha Fc Vs Chennaiyin Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_140450/hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg" group-title="FanCode | Sports",TAMIL- Odisha Fc Vs Chennaiyin Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_140450/tamil.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg" group-title="FanCode | Sports",MALAYALAM- Odisha Fc Vs Chennaiyin Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_140450/malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web_1772229313149.jpg" group-title="FanCode | Sports",BENGALI- Odisha Fc Vs Chennaiyin Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_140450/bengali.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140450_5956_ODS_CFC_fc-web-(1).jpg" group-title="FanCode | Sports",TAMIL- Odisha Fc Vs Chennaiyin Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fcdata/playlists/match_141089/tamil.m3u8
+https://allinonereborn.online/fcdata/playlists/match_131086/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Featured Groups   Day 4
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://allinonereborn.online/fcdata/playlists/match_140781/english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Main Feed   Day 4
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://allinonereborn.online/fcdata/playlists/match_140779/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Marquee Group   Day 4
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://allinonereborn.online/fcdata/playlists/match_140782/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png" group-title="FanCode | Sports",ENGLISH- Featured Holes   Day 4
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://allinonereborn.online/fcdata/playlists/match_140780/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
