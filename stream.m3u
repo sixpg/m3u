@@ -5438,7 +5438,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015700/177217706800066_FC_Cup_26_RD4_Port-Vale-vs-Bristol-City_landscape_thumb.jpg" group-title="SonyLiv | Sports",Port Vale vs Bristol City - Round 4 - 4 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772610934~acl=/*~id=87571144705484234385419257265409~hmac=3ffe4169d19407882ca67fdd4b18e7b85b063ca0dec1eb35a02523c5ade97fc8
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772613353~acl=/*~id=59632202321169228228330607981359~hmac=66fac09112d8e7ee480f2435829ffae85824b798b3146699ddaaa5d2b4c6f3f9
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -6169,13 +6169,16 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015700/177217706800066_FC_Cup_26_RD4_Port-Vale-vs-Bristol-City_landscape_thumb.jpg" group-title="SonyLiv | Sports",Port Vale vs Bristol City - Round 4 - 4 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772610329~acl=/*~id=51417136619237101117381767579880~hmac=50647e117f5deccc1c0d9d88b61f81eff45a9955ce0d16b3fd296599a6455f23
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772613353~acl=/*~id=59632202321169228228330607981359~hmac=66fac09112d8e7ee480f2435829ffae85824b798b3146699ddaaa5d2b4c6f3f9
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg" group-title="FanCode | Sports",ENGLISH- West Indies Women Vs Sri Lanka Women
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140525_5806_BAR_ATL_FC-Web.jpg" group-title="FanCode | Sports",ENGLISH- Fc Barcelona Vs Atletico De Madrid
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://allinonereborn.online/fctest/playlists/match_140143/english.m3u8
+https://allinonereborn.online/fctest/playlists/match_140525/english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png" group-title="FanCode | Sports",ENGLISH- Doncaster Rovers F.c. Vs Stockport County
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://allinonereborn.online/fctest/playlists/match_140875/english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
