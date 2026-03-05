@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772757346~acl=/*~id=21757877024950948041090899008812~hmac=64bad61441ce94f91b4ba14280ec15d935f0cca5341700e91cc3d868ff7f78b4
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7665,29 +7665,14 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772756741~acl=/*~id=14327713817415149483071616855837~hmac=85e11cba67b8e5e13206814b059af2a5bb9f6a13465f67fa3b95d42b7c187f09
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140452_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140452_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140452_malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140452_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_fc-web_1772688816397.jpg" group-title="FanCode | Sports",undefined- East Bengal Fc Vs Fc Goa
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141090_bengali.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140865_5648_BU_TAM_FC-WEB.jpg" group-title="FanCode | Sports",undefined- Bangkok United Vs Tampines Rovers Fc
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140865_5648_BU_TAM_FC-WEB.jpg" group-title="FanCode | Sports",ENGLISH- Bangkok United Vs Tampines Rovers Fc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140865_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",undefined- Main Feed Day 1
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Main Feed Day 1
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140988_english.m3u8
 
