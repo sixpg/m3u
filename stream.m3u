@@ -6938,7 +6938,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772750082~acl=/*~id=11571654854458537438278046772250~hmac=ebd39dbc0a25b246afcb2c5456920fd79c3a750c4502c238af20e8b62b014d6d
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772752504~acl=/*~id=71062286744725291681950677988959~hmac=a3ec6556b5a4ea7b6bd963467699f7059a6323b7725cc4057e07ff60ce5b28a8
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7664,7 +7664,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261403814412_DP_World_Day1_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 1 - 5 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772751293~acl=/*~id=31743572276965008937714900668713~hmac=b0162f20a8528f6c7d10de35ba5fbd63658b1c706b5ae19e24257140cac6570e
 
 # ---------------=== FanCode | Sports ===-------------------
 
