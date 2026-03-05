@@ -6937,8 +6937,7 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015764/1772613544098305_NZw_vs_ZIMw_1stODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",1st ODI - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772730715~acl=/*~id=12807852030490046496239804090241~hmac=aa82f40cd992c079a76ddf60615667f17f0a2e9b65db45a49efb798a6c98b0ab
+
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7664,14 +7663,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015764/1772613544098305_NZw_vs_ZIMw_1stODI_landscape_thumb.jpg" group-title="SonyLiv | Sports",1st ODI - 5 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1772728293~acl=/*~id=74585346021685009658043184877944~hmac=750af35fc705c2ac07a575ac1c76e4064f8cf7e2d53873618ea42ff9afc3d0a7
+
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg" group-title="FanCode | Sports",undefined- New Zealand Women Vs Zimbabwe Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140596_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg" group-title="FanCode | Sports",undefined- Hong Kong, China Vs Kuwait
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140884_english.m3u8
@@ -7684,18 +7679,12 @@ https://fanco.vodep39240327.workers.dev/134040_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png" group-title="FanCode | Sports",undefined- Queensland Vs Western Australia
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/134038_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140800_5979_PHI-W_KOR-W_fc-Web_1772191702182.jpg" group-title="FanCode | Sports",undefined- Philippines Women Vs Korea Republic Women
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140800_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",undefined- A Court Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141005_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",undefined- World Feed
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141004_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",undefined- C Court Feed
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141228_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
