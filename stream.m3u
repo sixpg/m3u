@@ -7673,18 +7673,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" group-title="FanCode | Sports",ENGLISH- Jamshedpur Fc Vs Inter Kashi Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140453_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" group-title="FanCode | Sports",HINDI- Jamshedpur Fc Vs Inter Kashi Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140453_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" group-title="FanCode | Sports",MALAYALAM- Jamshedpur Fc Vs Inter Kashi Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140453_malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140453_5956_JFC_KSHI_FC-Web_1772450359895.jpg" group-title="FanCode | Sports",BENGALI- Jamshedpur Fc Vs Inter Kashi Fc
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140453_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Main Feed Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140992_english.m3u8
