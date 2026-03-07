@@ -6488,15 +6488,15 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772305043806158_bliga26_MD25_FC_Koln_vs_Dortmund_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",FC Koln vs Borussia Dortmund - MD 25 - 7 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7229,21 +7229,27 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772175534000579_FC_Cup_26_RD5_Wrexham-vs-Chelsea_landscape_thumb.jpg" group-title="SonyLiv | Sports",Wrexham vs Chelsea - Round 5 - 7 Mar 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772305043806158_bliga26_MD25_FC_Koln_vs_Dortmund_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",FC Koln vs Borussia Dortmund - MD 25 - 7 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772952281~acl=/*~id=24351682384943593165486309250546~hmac=38c844f5515e1229159c4ee04a7e47f3ea78560cd97bd30217290472cff5c26c
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772953493~acl=/*~id=05433132340104224273476702562365~hmac=af8e86378697ed9c09be6ccb0675f2e860ca90c8ab83f4b93573372998eab585
 
 # ---------------=== FanCode | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131094_5427_ATL_RS_FC-Web.png" group-title="FanCode | Sports",ENGLISH- Atletico De Madrid Vs Real Sociedad
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/131094_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140718_5655_ANF_NEOM_fc-web.jpg" group-title="FanCode | Sports",ENGLISH- Al Nassr Fc Vs Neom Sc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140718_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Kholood-Club-vs-Al-Qadsiah-FC_fc-web.jpg" group-title="FanCode | Sports",ENGLISH- Al Kholood Club Vs Al Qadsiah Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140704_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- Main Feed Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140996_english.m3u8
@@ -7256,6 +7262,27 @@ https://fanco.vodep39240327.workers.dev/140998_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="FanCode | Sports",ENGLISH- World Feed Day 3
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140999_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- B Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141015_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- A Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141014_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- World Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141013_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- C Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141244_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg" group-title="FanCode | Sports",ENGLISH- D Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141243_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- E Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141242_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" group-title="FanCode | Sports",ENGLISH- F Court Feed
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141241_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
