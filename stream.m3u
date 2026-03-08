@@ -6487,7 +6487,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735592424842_IFL26_Shillong_Lajong_FC_vs_Real_Kashmir_FC_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Shillong Lajong FC vs Real Kashmir FC - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773022554~acl=/*~id=53767428737642653892058041752952~hmac=bc2ebd0462fe60a7428f1f9f3528564b83b2413bd9a90d0fc32561b8031e11ac
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015900/1772888531861337_FC_Cup_26_RD5_Port-Vale-vs-Sunderland_Landscape_thumb.jpg" group-title="SonyLiv | Sports",Port Vale vs Sunderland - Round 5 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773022554~acl=/*~id=53767428737642653892058041752952~hmac=bc2ebd0462fe60a7428f1f9f3528564b83b2413bd9a90d0fc32561b8031e11ac
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306230761158_bliga26_MD25_St_Pauli_vs_Frankfurt_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",St. Pauli vs Eintracht Frankfurt - MD 25 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773022554~acl=/*~id=53767428737642653892058041752952~hmac=bc2ebd0462fe60a7428f1f9f3528564b83b2413bd9a90d0fc32561b8031e11ac
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 4 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773022554~acl=/*~id=53767428737642653892058041752952~hmac=bc2ebd0462fe60a7428f1f9f3528564b83b2413bd9a90d0fc32561b8031e11ac
 
 # ---------------=== Other Channels ===-------------------
 
@@ -6514,6 +6521,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 #EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
 # ===== Vaathala Playlist =====
 # Join Telegram: @vaathala1
 
@@ -7219,18 +7227,44 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735877577842_IFL26_Diamond_Harbour_FC_vs_Dempo_Sports_Club_5mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Diamond Harbour FC vs Dempo Sports Club - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773017098~acl=/*~id=61857604206309491712762998793268~hmac=702c995806e9bb04039b24037d2114fc3f1b777bdc3cda76543bfce90f2a64d5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735592424842_IFL26_Shillong_Lajong_FC_vs_Real_Kashmir_FC_5mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Shillong Lajong FC vs Real Kashmir FC - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773017098~acl=/*~id=61857604206309491712762998793268~hmac=702c995806e9bb04039b24037d2114fc3f1b777bdc3cda76543bfce90f2a64d5
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772088112000579_FC_Cup_26_RD5_Fulham-vs-Southampton_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Fulham vs Southampton - Round 5 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773017098~acl=/*~id=61857604206309491712762998793268~hmac=702c995806e9bb04039b24037d2114fc3f1b777bdc3cda76543bfce90f2a64d5
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773021946~acl=/*~id=49934742282013937368358786855054~hmac=b662f69bf67d44bbc37c383b7e341a52e5d0fc19cad09a55b1e20d21b69c411f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015900/1772888531861337_FC_Cup_26_RD5_Port-Vale-vs-Sunderland_Landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Port Vale vs Sunderland - Round 5 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773021946~acl=/*~id=49934742282013937368358786855054~hmac=b662f69bf67d44bbc37c383b7e341a52e5d0fc19cad09a55b1e20d21b69c411f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306230761158_bliga26_MD25_St_Pauli_vs_Frankfurt_28feb_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",St. Pauli vs Eintracht Frankfurt - MD 25 - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773021946~acl=/*~id=49934742282013937368358786855054~hmac=b662f69bf67d44bbc37c383b7e341a52e5d0fc19cad09a55b1e20d21b69c411f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Joburg Open Day 4 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773017098~acl=/*~id=61857604206309491712762998793268~hmac=702c995806e9bb04039b24037d2114fc3f1b777bdc3cda76543bfce90f2a64d5
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773021946~acl=/*~id=49934742282013937368358786855054~hmac=b662f69bf67d44bbc37c383b7e341a52e5d0fc19cad09a55b1e20d21b69c411f
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131099_5427_VIL_ELC_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Villarreal Cf Vs Elche Cf
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/131099_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",ENGLISH - Mumbai City Fc Vs Sporting Club Delhi
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140457_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",HINDI - Mumbai City Fc Vs Sporting Club Delhi
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140457_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",MALAYALAM - Mumbai City Fc Vs Sporting Club Delhi
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140457_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772964019881.jpg" group-title="VT OTT | FanCode",BENGALI - Mumbai City Fc Vs Sporting Club Delhi
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140457_bengali.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" group-title="VT OTT | FanCode",ENGLISH - Afc Wimbledon Vs Northampton Town Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140558_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Rangers Vs Celtic
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141045_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="VT OTT | FanCode",ENGLISH - Main Feed Day 4
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141000_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png" group-title="VT OTT | FanCode",ENGLISH - Marquee Feed Day 4
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141002_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7245,15 +7279,14 @@ https://example.com/video.m3u8
   --------------== T20I ==------------------
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-English
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+#EXTHTTP:{"Cookie":"hdntl=exp=1773059401~acl=/*~data=hdntl~hmac=9d0990cfc91f24a77ae62ca534e62b5f805ee177d8932f8d187fe50abf6c6475","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/english.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
+#EXTHTTP:{"Cookie":"hdntl=exp=1773059401~acl=/*~data=hdntl~hmac=9d0990cfc91f24a77ae62ca534e62b5f805ee177d8932f8d187fe50abf6c6475","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/hin.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@vaathala1","Creator":"@vaathala1"}
 https://c2ag.short.gy/n/tamil.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20 World Cup |Live Matches" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Malayalam
