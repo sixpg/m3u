@@ -6488,9 +6488,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772090514000579_FC_Cup_26_RD5_Leeds-United-vs-Norwich-City_landscape_thumb.jpg" group-title="SonyLiv | Sports",Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773032268~acl=/*~id=57387753504623096753962247082763~hmac=bd0904a8e6b829c136eb5cd82153d0c4b7de2777df9d604016225e25057f7cdd
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773034089~acl=/*~id=90703672387416632704308329969246~hmac=0df440788e74ec65969a60b8d182edeb811e5d15092b78f77f1e24a30962f51e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306769192158_bliga26_MD25_Union_Berlin_vs_Werder_Bremen_28feb_landscape_thumb.jpg" group-title="SonyLiv | Sports",Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773032268~acl=/*~id=57387753504623096753962247082763~hmac=bd0904a8e6b829c136eb5cd82153d0c4b7de2777df9d604016225e25057f7cdd
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773034089~acl=/*~id=90703672387416632704308329969246~hmac=0df440788e74ec65969a60b8d182edeb811e5d15092b78f77f1e24a30962f51e
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7224,15 +7224,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772090514000579_FC_Cup_26_RD5_Leeds-United-vs-Norwich-City_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773031056~acl=/*~id=33523390039784937176788814940826~hmac=5e7455e075fc5c7c4040da23bb72f3dbd4bf46b1b6e6504921caa747874fba9d
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773032874~acl=/*~id=34179476941142053306024381366541~hmac=13ca8cbf3e21e3891cbd8bc12c3a709509a3984e6cb53a055f72c158e949f0b1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306769192158_bliga26_MD25_Union_Berlin_vs_Werder_Bremen_28feb_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773031056~acl=/*~id=33523390039784937176788814940826~hmac=5e7455e075fc5c7c4040da23bb72f3dbd4bf46b1b6e6504921caa747874fba9d
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773032874~acl=/*~id=34179476941142053306024381366541~hmac=13ca8cbf3e21e3891cbd8bc12c3a709509a3984e6cb53a055f72c158e949f0b1
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140705_5971_CAY_ARG_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Argentina Vs Cayman Islands
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140705_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131098_5427_GEF_RB_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Getafe Cf Vs Real Betis
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/131098_english.m3u8
