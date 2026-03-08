@@ -6488,11 +6488,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd?__hdn
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735877577842_IFL26_Diamond_Harbour_FC_vs_Dempo_Sports_Club_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Diamond Harbour FC vs Dempo Sports Club - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773014066~acl=/*~id=97166691664982827804459800019813~hmac=d99248e19748964a166c7abba88f3814f55983971c9cedc1f816ea07f5a943ba
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773016491~acl=/*~id=12902717045404131642877441416756~hmac=4b66a0e35f14586b080d5bf9c1f4bbab3d3fa23aa6fea717bb1b53dce49be010
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735592424842_IFL26_Shillong_Lajong_FC_vs_Real_Kashmir_FC_5mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Shillong Lajong FC vs Real Kashmir FC - 8 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773016491~acl=/*~id=12902717045404131642877441416756~hmac=4b66a0e35f14586b080d5bf9c1f4bbab3d3fa23aa6fea717bb1b53dce49be010
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772088112000579_FC_Cup_26_RD5_Fulham-vs-Southampton_landscape_thumb.jpg" group-title="SonyLiv | Sports",Fulham vs Southampton - Round 5 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773014066~acl=/*~id=97166691664982827804459800019813~hmac=d99248e19748964a166c7abba88f3814f55983971c9cedc1f816ea07f5a943ba
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773016491~acl=/*~id=12902717045404131642877441416756~hmac=4b66a0e35f14586b080d5bf9c1f4bbab3d3fa23aa6fea717bb1b53dce49be010
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015766/177261407532912_DP_World_Day4_Joburg-Open_landscape_thumb.jpg" group-title="SonyLiv | Sports",Joburg Open Day 4 - 8 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773014066~acl=/*~id=97166691664982827804459800019813~hmac=d99248e19748964a166c7abba88f3814f55983971c9cedc1f816ea07f5a943ba
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773016491~acl=/*~id=12902717045404131642877441416756~hmac=4b66a0e35f14586b080d5bf9c1f4bbab3d3fa23aa6fea717bb1b53dce49be010
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7576,6 +7578,10 @@ https://player.mrfooll.xyz/295582/vt.mkv?hash=AgADyx
 
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 71ef830be948e0d704210d26c081b59472675c30
 _________VT 🎬 | Tamil Movies_______
 
 
