@@ -6937,7 +6937,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143576563356_the_hundred_auction_womens_landscape_thumb.jpg" group-title="SonyLiv | Sports",Auction - 11 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773265862~acl=/*~id=18745842165188441167710717466513~hmac=cf1bf899085d91439e6bfd8f06c13336509f02618415ca5d4123ea22e2d30224
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7667,6 +7668,26 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773292741~acl=/*~id=92387b80-e354-4b06-bfe1-31686eeda78a~data=hdntl~hmac=bb0c949945d7f91200c7efdfb3980576f84375d006f5298fe1201e07f6004f9d
+
+# ---------------=== VT OTT | SonyLiv ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143576563356_the_hundred_auction_womens_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Auction - 11 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773265862~acl=/*~id=18745842165188441167710717466513~hmac=cf1bf899085d91439e6bfd8f06c13336509f02618415ca5d4123ea22e2d30224
+
+# ---------------=== VT OTT | FanCode ===-------------------
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" group-title="VT OTT | FanCode",ENGLISH - Pakistan Vs Bangladesh
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141406_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg" group-title="VT OTT | FanCode",ENGLISH - Tasmania Vs New South Wales
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/133949_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141355_6007_BB_SS_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Betwa Blasters Vs Saryu Smashers
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141355_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Cag Delhi Vs Ncc Odisha
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141264_english.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
