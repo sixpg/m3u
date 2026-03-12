@@ -6938,9 +6938,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016058/1773232988888126_IFC_Chanmari_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg" group-title="SonyLiv | Sports",Chanmari FC vs Dempo Sports Club - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773366372~acl=/*~id=74643209892528945462583715180212~hmac=a23d842867c37226c82aaa06ea72f299362514c83553cc71d0ff638d4e5d2ecc
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143587014356_the_hundred_auction_mens_landscape_thumb.jpg" group-title="SonyLiv | Sports",Auction - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773366372~acl=/*~id=74643209892528945462583715180212~hmac=a23d842867c37226c82aaa06ea72f299362514c83553cc71d0ff638d4e5d2ecc
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7668,12 +7668,18 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016058/1773232988888126_IFC_Chanmari_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chanmari FC vs Dempo Sports Club - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773364552~acl=/*~id=27816274981437833037666761299538~hmac=5eb3a6e292c2e50d6bb84553fd48517bee520d5c9f7ce9dd553f814a814212e5
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143587014356_the_hundred_auction_mens_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Auction - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773364552~acl=/*~id=27816274981437833037666761299538~hmac=5eb3a6e292c2e50d6bb84553fd48517bee520d5c9f7ce9dd553f814a814212e5
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141306_6002_RRP_ING_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - India Tigers Vs Royal Riders Punjab
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141306_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141306_6002_RRP_ING_FC-Web.jpg" group-title="VT OTT | FanCode",HINDI - India Tigers Vs Royal Riders Punjab
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141306_hindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140869_5648_TAM_BU_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Tampines Rovers Fc Vs Bangkok United
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140869_english.m3u8
@@ -9129,727 +9135,978 @@ https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/961E87FA-EBC2-429
 https://streaming-vod-aha.akamaized.net/content/pubcontent/vol/B4D97A7D-6342-4274-B34E-B73EADA51A94/1730096358284-output_cenc_dash.ism/index.mpd
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/jy7Pbgf0.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Indra
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/uB7WXe6m112ReKJP/mVgSgZH93HUY9gyg/Stereo.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/n4XSmT1d.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Ten Hours
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/KWiYXxv4IKsItNdV/FcQcmax0kqLmtPmV/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/wIfZYasq.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Sumo
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/2BQlREve8P6UX2VU/R9hdDcSclscNpZqq/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/uJnWPqmm.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Niram Maarum Ulagil
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/W7W7CcwJtcJGfkzS/Nu1D2NrM70HDL8et/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/EIad0XHo.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Eleven
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/GIWbkGLPPBz5j2lO/I3vFmeXdVl4n0zW2/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/x6JUku8b.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Evol
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ANcsvjtYKPyMmA63/pB2XIHhGxykuakaN/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/KSHjf6jn.webp" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Madras Matinee
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ZIFwKVhq2JPQjOIa/tCYJQjEu3lL0pJlX/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/uehnFjCD.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Padai Thalaivan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ZcnWO2XDNPh08NiS/50O56lwLpctdCLNk/Stereo_high.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Qvos7MUg.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Chennai City Gangsters
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/BLWlYwRDsLPTwyGm/fGFwaERg2hUtjk19/Stereo.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/SLpndfnl.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Maargan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/FQlavD4h6pDxl8tJ/JRVwP2LdqiuWBNm1/Stereo.m3u8
 
 #EXTINF: tvg-name="" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/8zTyvvDP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Jenma Natchathiram
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/84qnbwYMmcYNS8P1/HihUKUT8VCm4m0C3/Stereo.m3u8
 
 #EXTINF:7920 tvg-name="Fire" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/mobile-banner/VmLtHIKq.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies", Tourist Family
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/NpKOkvBoIGJ5pWAa/l2Xuu29qLHfUlio7/Stereo_high.m3u8
 
 #EXTINF:7920 tvg-name="Fire" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/LeH4GSQp.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Fire
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/SarlllxsAcxkleRb/c56VMm59XfmhipUd/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Rajakili" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/hHgy4u1w.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rajakili
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/EDKl57cX76YS3g3q/ydU44jjdOIM9xBll/Stereo.m3u8
 
 #EXTINF:6360 tvg-name="Kaadhal Enbadhu Podhu Udamai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/yKXmaoFC.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kaadhal Enbadhu Podhu Udamai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UB47YfYVlOFAKqg7/UlRyiyy4o5OvTOJG/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Vanangaan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/yzU0MJS5.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vanangaan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/YiD0oJs3ev6dsvHy/D7SgCRbGERSMs2cn/Stereo.m3u8
 
 #EXTINF:8940 tvg-name="Mr House Keeping" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/peEwz7Fy.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mr House Keeping
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/YcIVj7C4c8wiFSDJ/zAYTZIg9571PvV1M/Stereo.m3u8
 
 #EXTINF:6720 tvg-name="Emakku Thozhil Romance" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ixUUUmBn.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Emakku Thozhil Romance
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/50IQlCrEKY0Xlm1A/Z7zH2HPyu3A2NgAt/Stereo.m3u8
 
 #EXTINF:8160 tvg-name="Veerayi Makkal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/SrtRF6bE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Veerayi Makkal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/8vuOUgbOGQqeEykn/sLnVUkeJO2DcJ4o9/Stereo.m3u8
 
 #EXTINF:7080 tvg-name="Kuzhanthaigal Munnetra Kazhagam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/r5LBqee7.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kuzhanthaigal Munnetra Kazhagam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Butwzju827t0GKUR/0ceXF8WyMuw8fSN0/Stereo.m3u8
 
 #EXTINF:7020 tvg-name="Lara" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/zczuZ4Zq.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Lara
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/YFftyvN7nBZgUij5/eCUbtQnWQLXm1Eot/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Ring Ring" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/br3SZrW3.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ring Ring
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/uSKNn3JMSTTUirDL/lgB5Ydh8cWjIXGiP/Stereo.m3u8
 
 #EXTINF:7680 tvg-name="Goli Soda 2" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Nug6yWrk.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Goli Soda 2
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/3LTiSGYesrajLqXG/LEWnLWa6iMQvQwq3/Stereo.m3u8
 
 #EXTINF:-1 tvg-name="Kozhipannai Chelladurai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Bnw8Mtpl.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kozhipannai Chelladurai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/YMNETpD3gAm1ufMn/JdomRqp3LUEgDx3Q/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Va Varalam Va" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FFNPrWru.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Va Varalam Va
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UExguH8aQarSTy8c/aEfyRv8JgLAgppOk/Stereo.m3u8
 
 #EXTINF:5940 tvg-name="Thirumbipaar" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/BhFNhMS9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Thirumbipaar
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/jgv0woE2LjwVGvdm/p5N33Rv9JO8A26gJ/Stereo.m3u8
 
 #EXTINF:9420 tvg-name="Theeran Adhigaaram Ondru" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/gpVy3P2G.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Theeran Adhigaaram Ondru
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/D3rH5ssciy3rt76J/jXbwzvZpDhCuFWAH/Stereo.m3u8
 
 #EXTINF:7020 tvg-name="Park" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/1cbSfWkq.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Park
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Rd3CXwXrb5exOYZq/Ez4SpTuQMPTfxfrh/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Blink" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/DtSOeKFO.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Blink
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Jzh2zi6Gnqk3KsEO/w0gnAeMKAzoc5FOq/Stereo.m3u8
 
 #EXTINF:0 tvg-name="Satchi Perumal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/BTjwyMtR.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Satchi Perumal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5TCtadHzPwnEWVTk/SqbW9ZdeC6f6dpFl/Stereo.m3u8
 
 #EXTINF:7500 tvg-name="Aalan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/eHACPnUs.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aalan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/C46kJf3Wx3S8DTDS/nIHNQvEI7rJHATP1/Stereo.m3u8
 
 #EXTINF:10020 tvg-name="Thozhar Che Guevara" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/z1LWsRd2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Thozhar Che Guevara
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/acK3ERt1hY7KZQZI/tmBbtc0qyDugbUHC/Stereo.m3u8
 
 #EXTINF:7860 tvg-name="Kadapuraa Kalaikuzhu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/dlqfPqfm.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kadapuraa Kalaikuzhu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/QsTn85gdL6fNip7c/BjTi3tyAZe8g7ZP6/Stereo.m3u8
 
 #EXTINF:8100 tvg-name="Maanagaram" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Ew4woBLj.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Maanagaram
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/V5WEkvZKMbSGnUPE/m79GnYheWXweXtsA/ManagaRamStereo.m3u8
 
 #EXTINF:3840 tvg-name="Karotiyin Kadhali" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XTvO9KBS.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Karotiyin Kadhali
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/xiTDg3dUAa3BdTb8/cK65TM3o9yR7Cxz7/Stereo.m3u8
 
 #EXTINF:9720 tvg-name="Kaashmora" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Xa5whd37.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kaashmora
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/f8V2qrO31V4xGt5N/Qr31js6H2K22Qfzn/KasmoraStereo.m3u8
 
 #EXTINF:7320 tvg-name="Seetharam Benoy Case No. 18" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FXit2hLu.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Seetharam Benoy Case No. 18
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/bY62Ftu2DUewxf5c/E9t8ULD9nVjcQOMt/Stereo.m3u8
 
 #EXTINF:6780 tvg-name="Nandhi Varman" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/pTL5zncb.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Nandhi Varman
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/TI9J1iz37nKhUqlg/UnRlPomJUkmYpQ3M/Stereo.m3u8
 
 #EXTINF:0 tvg-name="Freedom @ Midnight" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/nhLGeoMO.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Freedom @ Midnight
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Cxpz9YAeuDnMk4rp/BuvlWU1TO9sTRDuu/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Alangu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/swJFpHDV.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Alangu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/A5NhA04Hy0tXJWER/vSU9fnFoIfN5sCjC/Stereo.m3u8
 
 #EXTINF:7860 tvg-name="Sir" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/o9wklgPU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sir
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/I3vCIfKsTs6zrdvc/wufD0QZFEAJu1nPC/Stereo.m3u8
 
 #EXTINF:7920 tvg-name="Paraman" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ORYkYaYD.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Paraman
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/evmBDLpOlZfrZ4yc/pjbatuf8PrJ0AyKT/Stereo.m3u8
 
 #EXTINF:6660 tvg-name="Finder - Project 1" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/RBGIShB1.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Finder - Project 1
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/lCMpFEODN313Lzpz/4ekLdQWHyjRmwYxI/Stereo.m3u8
 
 #EXTINF:9000 tvg-name="Captain Prabhakaran" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/zfMR4PFd.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Captain Prabhakaran
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VGsFkBzrvI7vCSMn/0J1loF0FAVat8tQs/Stereo.m3u8
 
 #EXTINF:8280 tvg-name="Karakattakkaran" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/qdalIOGM.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Karakattakkaran
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/zWZazLrOiI7eR5X1/ecv85UsAy8DRc11b/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Jolly O Gymkhana" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/DizatYKz.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Jolly O Gymkhana
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/EuUi5cpHxhgwDCji/WJVEkEUBzgvHTtNh/Stereo.m3u8
 
 #EXTINF:7200 tvg-name="R23 Criminals Diary" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/bjkXHnaa.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",R23 Criminals Diary
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/451qcnNNgmTT09bY/QzZcEFAtrUoFMzDs/Stereo.m3u8
 
 #EXTINF:9780 tvg-name="Amaidhipadai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/eBOYj0Hw.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Amaidhipadai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/qReWNGXCMtimEx3u/dl7x8MCLIbZCw0uF/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Joker" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/VqWwjW00.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Joker
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/Joker/Joker.m3u8
 
 #EXTINF:5520 tvg-name="3.6.9" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Sjwyv6tO.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",3.6.9
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/9YApLi2tTv0ziqrA/Gjl2Y7XkWqfo0tUj/Stereo.m3u8
 
 #EXTINF:8520 tvg-name="Aayirathil Oruvan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/dkq6Olyr.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aayirathil Oruvan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/T7LQ6MkxzYYjVT4t/zB043Ph1HjCUp1tU/Stereo.m3u8
 
 #EXTINF:7200 tvg-name="Tholvi F.C." tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XNXatdf3.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Tholvi F.C.
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/SK0iwZRDaQpFEkVT/eXzyxfVosQJ5A9K1/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Aruvi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/AFa8SR7N.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aruvi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/c2iI9CRmXyes8o50/t97hWUQx5AFY2E0L/Stereo.m3u8
 
 #EXTINF:7980 tvg-name="Kaathala Kaathala" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/9yEKOhX0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kaathala Kaathala
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/T6iOMSmtqXDH4GPt/a5sjPAtGcRlxtwdf/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Vattara Vazhakku" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/5XvXuWYf.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vattara Vazhakku
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/T6iOMSmtqXDH4GPt/a5sjPAtGcRlxtwdf/Stereo.m3u8
 
 #EXTINF:7500 tvg-name="Leg Piece" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/dj7gwpGm.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Leg Piece
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/DRvRSAJ4lyWlmscJ/7sIkx1E9r9ofz6IF/Stereo.m3u8
 
 #EXTINF:8880 tvg-name="Ullathai Allitha" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/lyeWw21z.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ullathai Allitha
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/f02CTJ7lCZRf9jAO/4YaqFPAyToEF2WJH/Stereo.m3u8
 
 #EXTINF:9000 tvg-name="Anti Indian" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XmU3cxH9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Anti Indian
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/UC5R71GnwuI19SZv/q8DFtGKD5euJGOdq/Stereo.m3u8
 
 #EXTINF:9600 tvg-name="Ulavuthurai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/bnZsH7I6.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ulavuthurai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5GXrZGFyCH9XiQcJ/xUgXdrNLhqJ9hwvO/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Ranam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/W5wGKxi3.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ranam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/286PiDWCKWIGbyKC/islqlqHcuwz4ALS2/Stereo.m3u8
 
 #EXTINF:6240 tvg-name="Aaragan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/PtdaMUDE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aaragan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/HcgDPLNOddSBz82L/c0nz0v2rI2HZHeT9/Stereo.m3u8
 
 #EXTINF:5280 tvg-name="Blood and Black" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/JJwDVhBI.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Blood and Black
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/YDCFVFLED5yfB7uX/3UU5jtnZPHKGvApz/Stereo.m3u8
 
 #EXTINF:9900 tvg-name="Kadhalukku Mariyadhai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/33w4UsT2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kadhalukku Mariyadhai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/GB7hL1M1JgYY21WB/cKwaxvgpXPYXvYb9/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Trisha Illana Nayanthara" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/GauvXmxu.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Trisha Illana Nayanthara
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Aw6w5h1T980Q3gjo/hMga1VVEuzTDTrqQ/Stereo.m3u8
 
 #EXTINF:7440 tvg-name="Partner" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/n8h7K09e.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Partner
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/YvIKWjQUZLWsqAqn/890DoTsqerQQNT8F/Stereo.m3u8
 
 #EXTINF:8640 tvg-name="Pulan Visaranai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/swGg9NMt.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pulan Visaranai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/NAkDZW6adMStCy5q/VWSvkoSMCsqjAk2D/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Kodai Muruga" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/9KnJIYdP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kodai Muruga
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ppZyu7DZhJUuyevA/GPL1j4REpVWRaq8z/Stereo.m3u8
 
 #EXTINF:7200 tvg-name="Powder" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/WpQNnEED.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Powder
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/O11RPWzdXrDDbA0t/eehw1hAfbi9HYLTd/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Poonthotta Kaavalkaaran" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/jXBEzwlA.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Poonthotta Kaavalkaaran
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/NAkDZW6adMStCy5q/bXi8WzGqNjBFJgaT/Stereo.m3u8
 
 #EXTINF:7440 tvg-name="Rooban" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/LGkXQYZA.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rooban
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/0Fit1PC6XfHwfGei/F5JbbXqto0RBmGu3/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Anni" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/vGBH5SOS.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Anni
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/PnHErFjPHpcuetPk/DIPckNK9qVbb3STW/Stereo.m3u8
 
 #EXTINF:4500 tvg-name="8" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/WVErPPLM.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",8
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/2c6oKHK5aCg4jmdk/GWLUNNaqTTCpBHev/Stereo.m3u8
 
 #EXTINF:6720 tvg-name="v1 murder case" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/jf9OkuR7.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",v1 murder case
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/3Uytz9R4KeKAd9pB/Pter6PWgmpaDRbsC/v1Stereo.m3u8
 
 #EXTINF:8280 tvg-name="Haraa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/SWfe0WZb.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Haraa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/3ioE025lMhEch6xe/Px7ihip921lwvWk8/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Little Hearts" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/IBrBldZe.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Little Hearts
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/KIJcemdvnjYaC9LX/J10ODdO0f6Yu1dEE/Stereo.m3u8
 
 #EXTINF:6660 tvg-name="Binary" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7TW0NhdZ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Binary
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/gLTjkrb44CO0En7D/aculLa2AvgrtW7mi/Stereo.m3u8
 
 #EXTINF:9000 tvg-name="En Aasai Machan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/3VYrsqiN.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",En Aasai Machan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VGsFkBzrvI7vCSMn/xhx5EoKqOilWy8sO/Stereo.m3u8
 
 #EXTINF:6120 tvg-name="Emagadhagan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/KzbHJvxh.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Emagadhagan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5JEqxCbfNzlZYTYR/5rJEUUL1jnsQcWMV/Stereo.m3u8
 
 #EXTINF:7140 tvg-name="Vaagai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/N2w5MM8i.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vaagai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/EuDXelEeqB6Kbo5T/4JxTtCC73Peugogd/Stereo.m3u8
 
 #EXTINF:8400 tvg-name="Netru Indha Neram" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/pEvgKkxn.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Netru Indha Neram
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/716SuY6Va16AiQYT/wpo1nDSbRuoseQlx/Stereo.m3u8
 
 #EXTINF:7020 tvg-name="Namma Ooruku Enna Than Achu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/iyLswIv0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Namma Ooruku Enna Than Achu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/4BbapEIIwcZnRTtA/mayzBq7G00CP5KCQ/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Vivesini" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/BCVJkjXQ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vivesini
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/pR6j76nsOefJpVB5/SR9KpqkTmQNjpXbq/Stereo.m3u8
 
 #EXTINF:9060 tvg-name="Puthiya Paravai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/CzwNbblG.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Puthiya Paravai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/mkqUB3ijZZH8JjcE/8Ct0XyL5K2QBL9Ql/Stereo.m3u8
 
 #EXTINF:6780 tvg-name="Ranga" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/o1rb8MIX.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ranga
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/1sri1WOTjBnqkfda/ixY2zE7x6EckEsFr/Stereo.m3u8
 
 #EXTINF:7380 tvg-name="Maalai Nerathu Mayakkam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/o44SGpkW.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Maalai Nerathu Mayakkam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/1w2QDyNQeP25ml8U/Kts4nJKldL2oLzUP/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Yaathisai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/pybFgEwO.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Yaathisai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/dxJJAs6nkOO3q9FU/xeEvApJfnq3sIQav/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Rangoli" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/UYZBa8M9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rangoli
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/62VKwTS8QJh2nySL/VB43sa4XPMAm7VGt/Stereo.m3u8
 
 #EXTINF:9240 tvg-name="Sakkarai Devan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/v31TWJG5.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sakkarai Devan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/NAIKLalbJsAJuDcc/2a4cssU3Kw3cd5pZ/Stereo.m3u8
 
 #EXTINF:6300 tvg-name="Mistake" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/z1rpzoGo.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mistake
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tFYSgHITCo6V5Ej0/yIaPS1RKJlerVMlH/Stereo.m3u8
 
 #EXTINF:9600 tvg-name="Dharma" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/mwZn3cPu.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Dharma
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VGsFkBzrvI7vCSMn/UI7r2gUMzBJbNIpL/Stereo.m3u8
 
 #EXTINF:9120 tvg-name="Budget Padmanabhan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XXPNwhOi.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Budget Padmanabhan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ivBcZJQGZzFezW8n/un6d10svZjZMuToo/Stereo.m3u8
 
 #EXTINF:5700 tvg-name="Idaivelai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Dy02yXP1.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Idaivelai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VTlpf3i0SsmZ6M8i/fZgWpNMhwfr7CoDS/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="The Outlaws" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/1urq4rd9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Outlaws
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/SDKIgUiv1c8zFL1Q/xky3kCtTZjhY4YMr/Stereo.m3u8
 
 #EXTINF:6540 tvg-name="CZ12" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/0NbSB7ep.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",CZ12
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/3hxXqPXdiY4VYX1e/pewLoOxKWekG1vBj/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Sudhandhiram" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/OfRHoupe.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sudhandhiram
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/JPJVfmZ2GENhiGs3/T1dPpyCkpLRkXf1d/Stereo.m3u8
 
 #EXTINF:5160 tvg-name="The Conqueror" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/VXsy6ZWP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Conqueror
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/59ewX55LTczGmthL/Stereo.m3u8
 
 #EXTINF:4140 tvg-name="Snake Island Python" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Q9QPcVpH.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Snake Island Python
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/pO8Z126tesDjVDfH/eE6XPcIoXncrY61f/Stereo.m3u8
 
 #EXTINF:0 tvg-name="Anand weds Keerthana" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/5Kb0xmNX.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Anand weds Keerthana
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/PJ3Bb1LJXBAuEnZm/3WMj9BMeNmVCy53M/Stereo.m3u8
 
 #EXTINF:4560 tvg-name="Horror Shark" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7bVvYcHw.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Horror Shark
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tlNGAp8MVImmawtc/g99cgku7jGCY3CmA/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Kadhalism" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/UrNirxXO.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kadhalism
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/i9AAtschnvlGe7MR/R6Pxxmn5giSjNhNa/Stereo.m3u8
 
 #EXTINF:9420 tvg-name="Priyasakhi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/oBipGUUr.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Priyasakhi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/4f1BE2xOVS3rvQlp/GLgHqYOtvYtjRhCF/Stereo.m3u8
 
 #EXTINF:8580 tvg-name="Rhythm" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Oy35XTK5.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rhythm
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/X3p1oWir2f0gPtGM/vQheuAngSRS3OBXR/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Bharathan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/p7VZFig6.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Bharathan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VGsFkBzrvI7vCSMn/lAxLjtCaboYvPwUx/Stereo.m3u8
 
 #EXTINF:6840 tvg-name="Richie Kalyanam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/5d4OW4Ph.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Richie Kalyanam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/raQAnwK3ZHQUpn6w/jqaJBoV4erQnRXSs/Stereo.m3u8
 
 #EXTINF:3780 tvg-name="ChangAn Fog Monster" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/6hkB4VBz.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",ChangAn Fog Monster
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/wj79XZX1A4bgQ0z8/Stereo.m3u8
 
 #EXTINF:6360 tvg-name="Suttu Pidikka Utharavu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/NOxoixka.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Suttu Pidikka Utharavu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/3uqqmsoq1H9O6Tx1/tTGSjMJQYW80WjJB/Stereo.m3u8
 
 #EXTINF:9180 tvg-name="Rajadurai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/NxFkoE9a.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rajadurai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/eZJnftNQ0xyuOOzN/hGetZqmUgBvyJHsK/Stereo.m3u8
 
 #EXTINF:7440 tvg-name="Sami Potta Mudichu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/NWoW2Ubb.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sami Potta Mudichu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/SE6w4bAfsjJFiM2h/mC9rP4Y3bgAfsk59/Stereo.m3u8
 
 #EXTINF:7980 tvg-name="Rettai Vaal Kuruvi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/iRqtHSoC.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rettai Vaal Kuruvi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/9YmUJJlBEV94GqEh/q6LUk0sBJUiQkEL9/Stereo.m3u8
 
 #EXTINF:9300 tvg-name="Karuppu Nila" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/v4NkaKc5.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Karuppu Nila
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/VGsFkBzrvI7vCSMn/tOI5WSzLO6ZUONOa/Stereo.m3u8
 
 #EXTINF:6900 tvg-name="Sagaa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/T7ZdNCxP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sagaa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/y1QHnBL884hyGrSr/J4KRhEsD9c8uyxwq/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="The Wild" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/TvjNiTb9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Wild
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/w8lCXKPGCk9H1MX3/Stereo.m3u8
 
 #EXTINF:9840 tvg-name="Vietnam Veedu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/UJfeikV6.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vietnam Veedu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Bn7LWXaX01gMqgk5/G3kyCBsDTYmD28TK/Stereo.m3u8
 
 #EXTINF:7980 tvg-name="Kana Kandaen" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/trd4xphJ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kana Kandaen
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/XGrrSTdONdc1KjX8/CbRUJAmuD3pCgDet/Stereo.m3u8
 
 #EXTINF:8400 tvg-name="Paattukku Oru Thalaivan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/GejMH9Nw.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Paattukku Oru Thalaivan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/AWNvqC24JeBjs84D/rA3kHT64RPwgLT9y/Stereo.m3u8
 
 #EXTINF:7320 tvg-name="Vigneshwar" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7Inc9YwA.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vigneshwar
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/2RBP8Vu8fhmqMiZK/zEviWsUA6g22RaCR/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="Mojin - The Treasure Valley" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XGvxH7Zp.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mojin - The Treasure Valley
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/ZAogdgTq5rK34zZV/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Siragan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Og9yNsXU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Siragan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/Rd3yLo4J3P47h3Lx/c3rOTQCF1Sif7nhU/Stereo.m3u8
 
 #EXTINF:9180 tvg-name="Sangamam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/WxNB8Wes.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sangamam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/OV8hiE0MZnByvfGl/QVITGjgZcPslJyJ6/Stereo.m3u8
 
 #EXTINF:6180 tvg-name="Andhramess" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/EA0xhblk.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Andhramess
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/zH3r2lN9si47Hm3e/fdt2TYIu32EjfFB5/Stereo.m3u8
 
 #EXTINF:7560 tvg-name="Pugazh" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/WtFj7mRm.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pugazh
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/4uyzcTYq0fUYDboi/ky0McQJoivITGdJU/Stereo.m3u8
 
 #EXTINF:6960 tvg-name="Game" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/30Nwqavs.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Game
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/jJYBcR9eMjMLgouC/yRH8Ltojl0ZPxLp4/Stereo.m3u8
 
 #EXTINF:7620 tvg-name="Aruva Sanda" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/kNiOb1Vj.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aruva Sanda
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/V9JwQB7cYf0tNZdQ/XNTBhYmZExcIzFWm/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Ettupatti Rasa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/dac8q62V.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ettupatti Rasa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/72nz6A1KL9zoH4ZR/2gFIjy6J5Zubbaap/Stereo.m3u8
 
 #EXTINF:8100 tvg-name="Yegathipathi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/uaqaOlnz.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Yegathipathi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/8X2WKCeKBkilUYi4/4GN5qFMURII3mmB8/Stereo.m3u8
 
 #EXTINF:8880 tvg-name="Moovendhar" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/HQtAfbac.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Moovendhar
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/OEr5vxHdqmvbLnYH/xd1daxOTYfB3QSbk/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Bakrid" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/bCJBZQnl.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Bakrid
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5wmluvvdd5hsuXXC/eUFiRTmWVg7jsFR9/Stereo.m3u8
 
 #EXTINF:7020 tvg-name="Kannula Kaasa Kattappa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tp3lU7TI.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kannula Kaasa Kattappa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/w6FHxZIQDeZSObyp/BK47pRWv4fTsJVzS/Stereo.m3u8
 
 #EXTINF:3720 tvg-name="Crocodile Island" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/mV7HcyKv.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Crocodile Island
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/mpBKPqHHHMmvUfZm/LG0U1HWjMmSpzVRP/Stereo.m3u8
 
 #EXTINF:8160 tvg-name="Aghathiyaa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/5bCCzNa6.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aghathiyaa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5J5mTcCaupB64rP7/JhJZf7IgzGXvrmzc/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Route No 17" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/0NtCnH3M.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Route No 17
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/s29TFa5wpRG38fmH/WwEjh9DPqXI5mFUh/Stereo.m3u8
 
 #EXTINF:9360 tvg-name="Diwan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/goOMa3Mz.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Diwan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/hd8ABBKUdAS8RxF1/B4GMLh3J18t1py5i/Stereo.m3u8
 
 #EXTINF:4980 tvg-name="Snow Monster" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Dkaf2AlZ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Snow Monster
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/AaAMJ3nSdqiMEhiR/Stereo.m3u8
 
 #EXTINF:8520 tvg-name="Virumaandikkum Sivanaandikkkum" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/35NIoMbZ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Virumaandikkum Sivanaandikkkum
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/LzRK8wbJlZutnT52/xnfH3VGV3DUXuuaz/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="En Peyar Shruthi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/3XaaOpbP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",En Peyar Shruthi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5OUidbZwAYdfsSC6/jjbB2qjjGWxZWNls/Stereo.m3u8
 
 #EXTINF:8520 tvg-name="Ganga Gowri" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/V1nIZlsK.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ganga Gowri
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/IlLDTdULeOCWN1td/NG4MXYSGSzI4F5U9/Stereo.m3u8
 
 #EXTINF:6000 tvg-name="Kuppi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/qA3kKcv1.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kuppi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/6EHAsoNHqqc4bwSv/RDeQ0ExR8BBl6HOu/Stereo.m3u8
 
 #EXTINF:8220 tvg-name="Ponnarasan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ooKldhnX.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ponnarasan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/TS1ggqo68urVs1zD/ku5vdS6RStNETyqA/Stereo.m3u8
 
 #EXTINF:7500 tvg-name="Solvathellam Unmai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Bh6iFB6o.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Solvathellam Unmai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/siuPZy7HofewU55n/j5TClsriciTQaJ0j/Stereo.m3u8
 
 #EXTINF:9720 tvg-name="Kumari Kottam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/9OcdLdh2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kumari Kottam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/SFuRXOgTprZhjnwu/9VP8Mthhd6uVw4iJ/Stereo.m3u8
 
 #EXTINF:3960 tvg-name="Escape of Shark" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/PfKBJx9H.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Escape of Shark
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/BHrXxc6dZgm5TZwe/HeP6FCiIASUTOeuG/Stereo.m3u8
 
 #EXTINF:5100 tvg-name="Sniper" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/hFOjsjAv.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sniper
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/ZBsND9CrZ2C8vl5b/4sjXwJ9EeRRDejt8/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Marichi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/5NyUMcjY.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Marichi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/uwzXljb8Z6r2NCWT/6cSnoeVKJUIZYtbC/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Pudhiya Mannargal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/o38Pc09C.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pudhiya Mannargal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/u9J8kPU7dsZ05ky2/SLSACYtJDjylTouZ/Stereo.m3u8
 
 #EXTINF:6660 tvg-name="Aal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7mJUhfWv.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/PJ3Bb1LJXBAuEnZm/3WMj9BMeNmVCy53M/Stereo.m3u8
 
 #EXTINF:7620 tvg-name="Mattravai Neril" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/z5dUEbUK.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mattravai Neril
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/TffDZqBtjzQnZKsS/lwv2T0TD5jWyseay/Stereo.m3u8
 
 #EXTINF:7320 tvg-name="Manasukketha Maharasa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/DsMFfg1Y.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Manasukketha Maharasa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/cczPG45gYcPnWMzo/z4vdziT1JA6KqQiz/Stereo.m3u8
 
 #EXTINF:8640 tvg-name="Vivaramana Aalu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FLVjVZHI.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vivaramana Aalu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UHibtK9IW1fz95QW/9sHyPHjZbiVck26x/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Thalattu Padava" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/to9TBem2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Thalattu Padava
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/r6sokmlQHqVx5fDJ/UozujRyfskEvJvgS/Stereo.m3u8
 
 #EXTINF:7320 tvg-name="Nedunalvaadai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/xCwO9aYf.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Nedunalvaadai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/D4GWWjdi1vKKkTGe/reJtWgL8SeOOEWRt/Stereo.m3u8
 
 #EXTINF:8340 tvg-name="Eeramana Rojave" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/M4lmUlIa.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Eeramana Rojave
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/KLbNjiYxaVksghap/YtJVBzgUv6n8ggBu/Stereo.m3u8
 
 #EXTINF:9420 tvg-name="Machi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ayR2eOp1.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Machi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/xFAA7VCq57GEGtjO/2C6XvPzKQJgTJuUN/Stereo.m3u8
 
 #EXTINF:4140 tvg-name="Huge Shark" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/F5yHGxjI.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Huge Shark
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tcHgCMYnRlMyiqyx/M7ItiG76KfYV4vCh/Stereo.m3u8
 
 #EXTINF:7200 tvg-name="Paadu Nilave" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/9eHgGH55.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Paadu Nilave
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tcKDgf7tj2lkc3Sf/mqypCCchos22Jhk8/Stereo.m3u8
 
 #EXTINF:7620 tvg-name="Mudhal Kural" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/cuKzM6iX.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mudhal Kural
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/sK5696oD7vOtawvH/vrhQglESNGcGYjyv/Stereo.m3u8
 
 #EXTINF:5700 tvg-name="Giant Fish" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7FAUWeda.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Giant Fish
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/hzdlNMySEPCzmwsh/Stereo.m3u8
 
 #EXTINF:7320 tvg-name="Uzhaipalar Thinam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/YwpZj1pt.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Uzhaipalar Thinam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2gb25gcqep0v6.cloudfront.net/wu4PKfWSSDpNGOZv/u95ZmR2Uyez5RC1l/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Annakili" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/wONThNv8.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Annakili
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/m7B1Bx0zxntogSmj/6cy8Bo9n6pkKoaLx/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Periya Gounder Ponnu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/8Eb05U92.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Periya Gounder Ponnu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/JEm1hbKXiDQTLDa5/TwBAfkHzqICHTAnH/Stereo.m3u8
 
 #EXTINF:7860 tvg-name="Devathai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/y40ryzsN.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Devathai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/pt2NjhGLHZBXfDLC/5BySYbYT9ZDNfTCY/Stereo.m3u8
 
 #EXTINF:5220 tvg-name="Alien Invasion" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/2c0LF7a4.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Alien Invasion
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Qa1drqxeVdGCcMoO/266tR7upTbx3KBmw/Stereo.m3u8
 
 #EXTINF:9300 tvg-name="Ragasiya Police" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/VFj8Ffvk.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ragasiya Police
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/q5fHAhH4zwKCCVik/5f45t83QWeEmpvLa/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Irandil Ondru" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/aIQTrzFp.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Irandil Ondru
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tRLD3iqgZO9tdNaR/UIn5WFUpJvYw2zpn/Stereo.m3u8
 
 #EXTINF:5820 tvg-name="Big Octopus" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/CLvKQ9C1.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Big Octopus
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/CFdpBBReL2b8ERrG/JkwqqJl56sXWURxQ/Stereo.m3u8
 
 #EXTINF:4260 tvg-name="Southern Shaolin and the Fierce Buddha Warriors" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/HpQomyzG.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Southern Shaolin and the Fierce Buddha Warriors
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/XGEzTxgy9zzdHHLD/QfHhHJLheJyhbLMr/Stereo.m3u8
 
 #EXTINF:4800 tvg-name="Snake" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/gAswD8a2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Snake
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/D8ljkF44B0JvrHWN/4fNzgkzAyPRZDYlL/Stereo.m3u8
 
 #EXTINF:8460 tvg-name="Grahapravesam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Gh4i2rSH.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Grahapravesam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/t3NOrY4uoDdfEPGk/xpcVmN2Mk5AhIfW9/Stereo.m3u8
 
 #EXTINF:8100 tvg-name="Oruvar Vaazhum Aalayam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tPdx8BxA.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Oruvar Vaazhum Aalayam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/gbKrc19ibHyIrhF7/YKc7QDpk97alAxqJ/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Villu Pattukaran" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tFspSWMc.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Villu Pattukaran
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/pP6WAcVHwmVZdl0A/1USgFp1McAqAmAHX/Stereo.m3u8
 
 #EXTINF:4500 tvg-name="Anbu Thozhi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Td2YZdEW.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Anbu Thozhi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/1OWtiIEhxTz2xstB/WhbYRk3cze0Hopix/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Kalicharan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/eGl1r864.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kalicharan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Ksi1Ul1f9OhL50Gu/5hdvPiefcbLmHGk3/Stereo.m3u8
 
 #EXTINF:10200 tvg-name="Vanangamudi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ugakpdtm.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Vanangamudi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/NOMIVdTSBzFgS6Zz/FBtYH8l7ABDc927L/Stereo.m3u8
 
 #EXTINF:7980 tvg-name="Andaman Kadhali" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/OeaXgffQ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Andaman Kadhali
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/M76rIhEYKY92uzWW/OmB1cI4YcntSnLKM/Stereo.m3u8
 
 #EXTINF:4980 tvg-name="Mega Crocodile" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/BxeXpnBu.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mega Crocodile
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/iFUj46nfkOy1IeM0/i4MXWXGum0ICDYL6/Stereo.m3u8
 
 #EXTINF:-1 tvg-name="East Dragon" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/9AiBSjIf.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",East Dragon
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/u4OriITyVa6PiZtB/BvwATBhfWy35Trlr/Stereo.m3u8
 
 #EXTINF:7260 tvg-name="Mananthal Mahadevan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/xfKhyjIE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mananthal Mahadevan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/QlMupEfHTjTqqMOU/FJTQEanp1SAuW4eG/Stereo.m3u8
 
 #EXTINF:7020 tvg-name="Unakkaagave Vaazhgiren" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/0xgXhp1m.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Unakkaagave Vaazhgiren
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/9gJ2BgKiPv4oDBVI/HUuWR5xs7cQJ5mUd/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Ivanuku Thanila Gandam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/R0ez55gs.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ivanuku Thanila Gandam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/tfo0bQABWBePmriY/mfCY9KY5A8vqJTDm/Stereo.m3u8
 
 #EXTINF:8580 tvg-name="Sathyam Neeye" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/UCvdLjwE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sathyam Neeye
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Yzv4fXDTC8cuixMi/wNprTr4QwO3in9l9/Stereo.m3u8
 
 #EXTINF:4800 tvg-name="Ip Man: The Awakening" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/EsQxJZJd.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ip Man: The Awakening
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/E7bhe9oCuHWI6mfj/Stereo.m3u8
 
 #EXTINF:4140 tvg-name="Legend Of Loulan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tLf3cVsw.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Legend Of Loulan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/9eGSDlusp5lSJKF9/wTDlWP3zF0rVdWuA/Stereo.m3u8
 
 #EXTINF:4740 tvg-name="Lei Zhenzi Of The Creation Gods" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/aMxOHtXI.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Lei Zhenzi Of The Creation Gods
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/hFtp4NP1uNKgqjMA/fsfkgJzWH7tDkj5X/Stereo.m3u8
 
 #EXTINF:10800 tvg-name="Pasamalar" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/mdb1WIOr.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pasamalar
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k58iuUvbjaKCjVNQ/ryoV4472jBRfb3QZ/Stereo.m3u8
 
 #EXTINF:8640 tvg-name="Rathna" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XoaDj3R0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rathna
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/5J5mTcCaupB64rP7/JhJZf7IgzGXvrmzc/Stereo.m3u8
 
 #EXTINF:7800 tvg-name="Muthalali Amma" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/2wbsH1pQ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Muthalali Amma
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/zNKAW5SfcrFKvlJw/QLM8Q0Suy9KuWaic/Stereo.m3u8
 
 #EXTINF:10440 tvg-name="Kalyanam Panniyum Brahmachari" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ziBV4A9p.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kalyanam Panniyum Brahmachari
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/nLVRTnSCpNehq0xy/15bYtdVFDZzJ3qIr/Stereo.m3u8
 
 #EXTINF:8820 tvg-name="Sarada" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/nIlfHn60.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sarada
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UyTLXxysQJNPXO0q/2DvFgYRA5dkLZOvP/Stereo.m3u8
 
 #EXTINF:8760 tvg-name="Osai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/hid0AaQP.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Osai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/50IQlCrEKY0Xlm1A/jveYWC3Q92GEb4RU/Stereo.m3u8
 
 #EXTINF:4800 tvg-name="The Legend Of Deification" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/T8kzYmD0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Legend Of Deification
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/3WBTQZgyWemqVWTP/pgHp9MgM1VBgDASU/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Adharma Kadhaigal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/05ozUqPU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Adharma Kadhaigal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/O1tswSHXrwMHhyG7/tDx5J8r8jNG3ThZ0/Stereo.m3u8
 
 #EXTINF:8280 tvg-name="Kadal Meengal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/6CvgrXl2.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Kadal Meengal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/0PljDx2rrTh0cdri/q0O8y2IgiU1ZjmyO/Stereo.m3u8
 
 #EXTINF:10200 tvg-name="Pavai Vilakku" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7gkisUv0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pavai Vilakku
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/b5EKpoqapyZbojur/990qzSqrZorbp2jH/Stereo.m3u8
 
 #EXTINF:7080 tvg-name="Pozhuthu Vidinchachu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/GzYl2iyp.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Pozhuthu Vidinchachu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/WV3mcUkzYUi0lYwO/ABTZ2ugmAX3M6UBN/Stereo.m3u8
 
 #EXTINF:5580 tvg-name="Detection Of Di Renjie" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/B16gqWwG.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Detection Of Di Renjie
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/7pJeOrE2djSah5nZ/ctZsXhtIGYGmPZRs/Stereo.m3u8
 
 #EXTINF:4680 tvg-name="Warrior Kings" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/BtvemIwN.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Warrior Kings
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/N0F9vJmd5QCnk3no/ZeBPlFleyVsr0Zf4/Stereo.m3u8
 
 #EXTINF:7980 tvg-name="Poove Ilam Poove" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tZOaFs8N.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Poove Ilam Poove
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/j9CtMrQynt982Lh8/Oqf3JeKl4mHscIU8/Stereo.m3u8
 
 #EXTINF:5460 tvg-name="RV: Resurrected Victims" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/E8RoONmo.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",RV: Resurrected Victims
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/lt9AWTdvr6lBRsi5/Stereo.m3u8
 
 #EXTINF:4920 tvg-name="Detective Dee Rats Invasion" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/4f1JTT8I.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Detective Dee Rats Invasion
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UrHk0JSv2t8UHa1x/dBXCnWd4YKkDeviI/Stereo.m3u8
 
 #EXTINF:7740 tvg-name="Arathi Edungadi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/62cCHIRG.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Arathi Edungadi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/lEteCfad5SoKLlcK/jJbwwM4Kz3D5YgRS/Stereo.m3u8
 
 #EXTINF:7860 tvg-name="Annan Oru Koyil" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/c3jF4ZmE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Annan Oru Koyil
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/m0uglPBnjFoT2S1i/31npk4sxnOJ9k9zP/Stereo.m3u8
 
 #EXTINF:7560 tvg-name="Mundhanai Sabatham" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/b9VSK5zo.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mundhanai Sabatham
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/hWZF57mBDoUzgdQf/TDuFQxD0pT3Xh2Jo/Stereo.m3u8
 
 #EXTINF:4800 tvg-name="The Man Named Leapard" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ZikERNhF.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Man Named Leapard
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/AZJ48th9aMEpcbth/j4kWekbwGQshAcum/Stereo.m3u8
 
 #EXTINF:4680 tvg-name="Water Monster" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/mHaUJzBD.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Water Monster
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/qlQ39zAEEbTbGoOU/vBNUAcYP5YgkBtRw/Stereo.m3u8
 
 #EXTINF:5520 tvg-name="Rise of Hero" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/jzcZgD0W.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Rise of Hero
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/CPPpXuia1vhP5OIE/Lbr6RJktohm4m9Qh/Stereo.m3u8
 
 #EXTINF:4680 tvg-name="Devil in Dune" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/kGrzrPzK.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Devil in Dune
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/W5kHpbqGde1kQNPv/T22yEi3Yol1qWvWq/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="Return of Wu kong" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Vd3kjdqh.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Return of Wu kong
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/yOf2hrZxYcQfOBs9/bDwWHkgb2KYuSySH/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="The River Monster" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/vp6reDt0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The River Monster
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/cZnuSxbsm7MgEjL9/jwJkfKaeB2AikMg2/Stereo.m3u8
 
 #EXTINF:4980 tvg-name="Painted Skin" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/x11wOKal.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Painted Skin
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/fgspacVNro2SYi7r/Oc6Rkef7EvuEc7je/Stereo.m3u8
 
 #EXTINF:9000 tvg-name="Idhaya Thamarai" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FjWHsJMp.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Idhaya Thamarai
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/nuuPwSmLaiUDhh4c/KwxzFAfnJ2OvobLo/Stereo.m3u8
 
 #EXTINF:7320 tvg-name="Aayiram Nilavae Vaa" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/XUY3fDxt.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Aayiram Nilavae Vaa
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/J18VYs1UxbozxWDg/UL4Pu5wye5jCB7rL/Stereo.m3u8
 
 #EXTINF:5580 tvg-name="Sivantha Malar" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/722C2fML.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sivantha Malar
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/21zCbhgAwAsfjpf6/37w96uM9Gn9cWDk8/Stereo.m3u8
 
 #EXTINF:5220 tvg-name="Tai Chi Hero" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Hbr8Aoxk.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Tai Chi Hero
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/QKx6nObZaGZbUAQv/r9iki1FzlYciV11x/Stereo.m3u8
 
 #EXTINF:5520 tvg-name="Mulan Legend" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/3ulpiOnx.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Mulan Legend
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/n6Y5uFiMhJsipkNt/Stereo.m3u8
 
 #EXTINF:8700 tvg-name="Alaya Deepam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7BwVo2HZ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Alaya Deepam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/EroQ65G9dMlIkv4r/eZ68IEWl6lUgMhVU/Stereo.m3u8
 
 #EXTINF:5220 tvg-name="Savage Man" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/tbcW12uN.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Savage Man
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/9m6hRLx5xySGDYup/6p8L4Zl5tCPkBxmi/Stereo.m3u8
 
 #EXTINF:8880 tvg-name="Sudarum Sooravaliyum" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/X7JoiGiJ.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sudarum Sooravaliyum
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/4z5pzRoyyrapWlam/EIFSrYSx9osN7dUv/Stereo.m3u8
 
 #EXTINF:5340 tvg-name="Sniping 2" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/qhBHQd2H.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sniping 2
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/pp0LoCQ2Vqe7PFOc/Stereo.m3u8
 
 #EXTINF:5520 tvg-name="The Unparalleled Mulan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Yt9zY6md.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Unparalleled Mulan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/kioAvQI6chCGlqZl/Stereo.m3u8
 
 #EXTINF:8220 tvg-name="Irandu Manam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/LOeYu7YK.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Irandu Manam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/bNpsD8vhfI440NZ5/zyOUpYIPnFYLi1NK/Stereo.m3u8
 
 #EXTINF:7080 tvg-name="Filter Gold" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/JVpMwN9Z.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Filter Gold
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/PIIeSZgcFAdFucI4/0g3Pvb7RXHi0xn1X/Stereo.m3u8
 
 #EXTINF:11760 tvg-name="Suriyan Chandiran" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/zxVyPrWS.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Suriyan Chandiran
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/CwLE30q3RwlSJfOX/WUS9Ahonz5dhtPdv/Stereo.m3u8
 
 #EXTINF:8280 tvg-name="Radhai Ketra Kannan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/3bVgcpFW.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Radhai Ketra Kannan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/kREyr4aIP3bmtET3/2eKTr6RbHCnWojB2/Stereo.m3u8
 
 #EXTINF:5400 tvg-name="Matchless Mulan" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/l1De3b73.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Matchless Mulan
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/ejntHjzp4GAk734n/Stereo.m3u8
 
 #EXTINF:3960 tvg-name="Weird Cases in the Wild: The Dragon Grottoes" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/GBjsKYzm.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Weird Cases in the Wild: The Dragon Grottoes
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/OwnoSswixK6O7wYq/Stereo.m3u8
 
 #EXTINF:4140 tvg-name="The Labyrinth" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/yJmV6BS9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Labyrinth
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/elJ1pChVWHc3ltSW/Stereo.m3u8
 
 #EXTINF:4440 tvg-name="Detective Dee Dragon Palace" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FTpWApY9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Detective Dee Dragon Palace
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/WyHus8gaiYKz0q8T/9xR3lIL8ASz42c0v/Stereo.m3u8
 
 #EXTINF:4500 tvg-name="Nowhere to hide" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/7J7h5wOC.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Nowhere to hide
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/i9oGX7XXbWLBUfYE/FK6SahKMmYNyIW6t/Stereo.m3u8
 
 #EXTINF:8400 tvg-name="Deiva Kuzhandhaigal" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/CTSmjuvN.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Deiva Kuzhandhaigal
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Mh6oSTZF8IoPuPEe/Ueohx2Tx3kwUe8J0/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="Sudhanthira Bharathi" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/yg6LPq4W.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sudhanthira Bharathi
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/PdurA1frmzVMeEYv/59nmfVhcx9EcLSkI/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Petha Manam Pithu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/i4ynnb9o.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Petha Manam Pithu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/0HSpeI3PGYd6iXYf/jBpp9QD60zeu3A9G/Stereo.m3u8
 
 #EXTINF:6600 tvg-name="Infinity" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/mH7AX5f5.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Infinity
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/TD5qMnKc68nZ6txP/8gGt8Z9dOccwQgUI/Stereo.m3u8
 
 #EXTINF:8040 tvg-name="Ilamai Kolam" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/Ro9pgUpL.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Ilamai Kolam
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/Z7ZOXlrW8kjKiZtq/FFJyOEgIyonY7JrS/Stereo.m3u8
 
 #EXTINF:5100 tvg-name="Detective Dee: Solitary Skies Killer" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/D5hUux6W.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Detective Dee: Solitary Skies Killer
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/r6O3Duc1T9ggJ6BZ/ewd3dT0LPH0TNEaB/Stereo.m3u8
 
 #EXTINF:6960 tvg-name="The Book of Mythical Beasts" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/iJKF5Ff0.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",The Book of Mythical Beasts
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/jEvazCHJv85H481f/ezr2b4LvBKVohnnU/Stereo.m3u8
 
 #EXTINF:4380 tvg-name="Detective Dee Murder in Chang’an" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/D8EEHEpU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Detective Dee Murder in Chang’an
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/JYZu96ed2LqkSZVT/8Gi0NuO36b2UNlSe/Stereo.m3u8
 
 #EXTINF:4260 tvg-name="Shennong Savage" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/lklGLQTH.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Shennong Savage
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/cK7g5HTSezXcmzXH/Stereo.m3u8
 
 #EXTINF:5640 tvg-name="Monkey King One and Only" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/rfzLlQn9.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Monkey King One and Only
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/iMwAr1QYnBPi5JsX/Stereo.m3u8
 
 #EXTINF:3780 tvg-name="ChangAn Fog Monster" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/amZkpnwE.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",ChangAn Fog Monster
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/k20nt2pqgXeDhvbP/wj79XZX1A4bgQ0z8/Stereo.m3u8
 
 #EXTINF:7620 tvg-name="Naadu" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/eTCyVGGu.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Naadu
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/f5GLtmvPy0980OoS/QWdwMounuo9aoGSU/Stereo.m3u8
 
 #EXTINF:8820 tvg-name="Sarada" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/FCs9JLNU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",Sarada
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/UyTLXxysQJNPXO0q/2DvFgYRA5dkLZOvP/Stereo.m3u8
 
 #EXTINF:4440 tvg-name="White Haired Princess" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ech8yFqU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",White Haired Princess
+#EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/EKO2ecWTZaXeR2De/V6KEZ7xbSSzJYzWg/Stereo.m3u8
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar Tamil
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
+https://fc-play.lrl45.workers.dev/2034629/master_ap_1080_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar English
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
+https://fc-play.lrl45.workers.dev/2034621/master_ap_1080_6.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
