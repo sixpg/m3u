@@ -6938,7 +6938,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143587014356_the_hundred_auction_mens_landscape_thumb.jpg" group-title="SonyLiv | Sports",Auction - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773372442~acl=/*~id=55978400603483750552810318184789~hmac=fafe1e4aa9bf7ae422466764e934b633ca456c5592133909c6cf128be995ffa4
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773376076~acl=/*~id=13170576811179421327282955051992~hmac=47d9a6e721c3dce2a54aa78567dbbb3247d5baf991f0b4e479129ac46664147e
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7665,10 +7665,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== VT OTT | SonyLiv ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016058/1773232988888126_IFC_Chanmari_FC-vs-Dempo_Sports_Club_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Chanmari FC vs Dempo Sports Club - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143587014356_the_hundred_auction_mens_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Auction - 12 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773368801~acl=/*~id=68955583236060936197145724850340~hmac=85db387c6d71c2bf4d8f5a43d71156a18b233fdfd5a3f23390231dc15fab855a
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773372442~acl=/*~id=55978400603483750552810318184789~hmac=fafe1e4aa9bf7ae422466764e934b633ca456c5592133909c6cf128be995ffa4
 
 # ---------------=== VT OTT | FanCode ===-------------------
 
@@ -7678,9 +7676,9 @@ https://fanco.vodep39240327.workers.dev/141306_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141306_6002_RRP_ING_FC-Web.jpg" group-title="VT OTT | FanCode",HINDI - India Tigers Vs Royal Riders Punjab
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141306_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140869_5648_TAM_BU_FC-WEB.jpg" group-title="VT OTT | FanCode",ENGLISH - Tampines Rovers Fc Vs Bangkok United
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140711_5971_MEX_CAY_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Cayman Islands Vs Mexico
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/140869_english.m3u8
+https://fanco.vodep39240327.workers.dev/140711_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Main Feed   Day 1
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141136_english.m3u8
@@ -10099,12 +10097,12 @@ https://d2dheru3ra32vv.cloudfront.net/EKO2ecWTZaXeR2De/V6KEZ7xbSSzJYzWg/Stereo.m
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar Tamil
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
-https://fc-play.lrl45.workers.dev/2034629/master_ap_1080_6.m3u8
+https://fc-play.lrl45.workers.dev/2034629/tam/master_ap_1080_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar English
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
 #EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
-https://fc-play.lrl45.workers.dev/2034621/master_ap_1080_6.m3u8
+https://fc-play.lrl45.workers.dev/2034621/eng/master_ap_1080_6.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
