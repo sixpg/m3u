@@ -7670,15 +7670,15 @@ https://fanco.vodep39240327.workers.dev/141407_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" group-title="VT OTT | FanCode",ENGLISH - Act Meteors Vs Western Australia Women
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/133988_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Punjab Lions Vs Mumbai Maverics
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/141194_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" group-title="VT OTT | FanCode",ENGLISH - Nexage Hyderabad Vs Ncc Odisha
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141267_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141359_6007_BB_CC_FC-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Betwa Blasters Vs Chambal Chargers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141359_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="VT OTT | FanCode",ENGLISH - Gujarat Tigers Vs Bengal Royals
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/141195_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140911_5802_BRB_SYW_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Brisbane Roar Vs Western Sydney Wanderers
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140911_english.m3u8
@@ -10087,16 +10087,6 @@ https://d2dheru3ra32vv.cloudfront.net/UyTLXxysQJNPXO0q/2DvFgYRA5dkLZOvP/Stereo.m
 #EXTINF:4440 tvg-name="White Haired Princess" tvg-logo="https://d2gb25gcqep0v6.cloudfront.net/tentkotta-images/videos/thumbnails/ech8yFqU.jpg" type="movie"  group-title="𝗧𝗲𝗻𝘁𝗸𝗼𝘁𝘁𝗮 | Movies",White Haired Princess
 #EXTHTTP:{"Origin": "https://www.tentkotta.com", "Referer": "https://www.tentkotta.com", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}
 https://d2dheru3ra32vv.cloudfront.net/EKO2ecWTZaXeR2De/V6KEZ7xbSSzJYzWg/Stereo.m3u8
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar Tamil
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
-https://fc-play.lrl45.workers.dev/2034629/tam/master_ap_1080_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1080/sources/r1/cms/prod/6062/1773210706062-i" group-title="SOON..|TATA IPL 2026", Hotstar English
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
-#EXTHTTP:{"Cookie":"hdntl=exp=1773278830~acl=/*~id=686f82161e536863409858df48126ea4~data=hdntl~hmac=a0aa1383ac3c6facdc94be713a6c53296cc787be37f41906765efe8a3669a57d","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com"}
-https://fc-play.lrl45.workers.dev/2034621/eng/master_ap_1080_6.m3u8
 
 # ---------------=== Other Channels ===-------------------
 
