@@ -6937,7 +6937,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015722/1772378482350152_bliga26_MD26_Borussia_Mgladbach_vs_St_Pauli_1mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Borussia M'gladbach vs St. Pauli - MD 26 - 14 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773472458~acl=/*~id=11228651133773741663570549762136~hmac=094e1c5833e1e393097919cbb600f5f8dc8da82e4e540c4575180c2ee605c169
 
 # ---------------=== Other Channels ===-------------------
 
@@ -7662,8 +7663,16 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773509443~acl=/*~id=a9192c47-1049-4d2b-b2d9-335dd75b6226~data=hdntl~hmac=d1a26ce3fef9f346d70b59b73aff8b6e624fd857a66226d763dff835cc6b66ae
 
+# ---------------=== VT OTT | SonyLiv ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015722/1772378482350152_bliga26_MD26_Borussia_Mgladbach_vs_St_Pauli_1mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Borussia M'gladbach vs St. Pauli - MD 26 - 14 Mar 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773471851~acl=/*~id=78524640486576163156486176806991~hmac=782708d089911450d511fbd36f71129fe3608f5931cfc488ac0432e597e925f3
+
 # ---------------=== VT OTT | FanCode ===-------------------
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140719_5655_ALQ_AAS_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Al Qadsiah Fc Vs Al Ahli Saudi Fc
+#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
+https://fanco.vodep39240327.workers.dev/140719_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Main Feed   Day 2
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/141140_english.m3u8
