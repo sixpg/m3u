@@ -7662,19 +7662,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773594441~acl=/*~id=d08e33dd-821b-4dd9-955c-4dddd399aeeb~data=hdntl~hmac=ecb89655f051e4ec8701e5b60064113686c598de8a12d22ad2842aa5bbcf4f02
 
-# ---------------=== VT OTT | SonyLiv ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016185/1773483212603469_bliga26_MD26_Hamburg_SV_vs_FC_Koln_14mar_landscape_thumb.jpg" group-title="VT OTT | SonyLiv",Hamburger SV vs FC Koln - MD 26 - 14 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773559696~acl=/*~id=37907359426502497641210005231399~hmac=740cb30bd18a5611e1816970390f676f2a95db369c79cbf5f3baef6feac7bcb3
-
 # ---------------=== VT OTT | FanCode ===-------------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg" group-title="VT OTT | FanCode",ENGLISH - Suriname Vs Cayman Islands
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140714_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131108_5427_RO_VAL_FC-Web.png" group-title="VT OTT | FanCode",ENGLISH - Real Oviedo Vs Valencia Cf
-#EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
-https://fanco.vodep39240327.workers.dev/131108_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140721_5655_AFF_AHS_fc-web.jpg" group-title="VT OTT | FanCode",ENGLISH - Al Fateh Sc Vs Al Hilal Sfc
 #EXTHTTP:{"Origin":"https://allinonereborn.online/fcww","Referer":"https://allinonereborn.online/fcww"}
 https://fanco.vodep39240327.workers.dev/140721_english.m3u8
