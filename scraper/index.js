@@ -10,8 +10,9 @@ const SOURCES = {
   JIO_JSON: "https://raw.githubusercontent.com/sixpg/jio/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
-  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
+  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.json",
   SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.json",
+  SONYLIV: "https://raw.githubusercontent.com/Sflex0719/SonGharLive/main/SL.m3u",
 
   LOCAL_JSON: [
     "https://b4u.vodep39240327.workers.dev/1.json?url=https://tulnit.com/channel/local-tamil-tv/",
@@ -187,64 +188,30 @@ async function run() {
   const out = [];
   out.push(PLAYLIST_HEADER.trim());
 
-  // LOCAL TELUGU
-  if (Array.isArray(SOURCES.TELUGU_JSON)) {
-    let allLocalChannels = [];
-
-    for (const url of SOURCES.TELUGU_JSON) {
-      const data = await safeFetch(url, "Local Telugu");
-      if (Array.isArray(data)) {
-        allLocalChannels = allLocalChannels.concat(data);
-      }
-    }
-
-    if (allLocalChannels.length > 0) {
-      out.push(
-        section("CS 📺 | Local Channel Telugu"),
-        convertLocalTelugu(allLocalChannels)
-      );
-    }
-  }
-
-  // LOCAL TAMIL
-  if (Array.isArray(SOURCES.LOCAL_JSON)) {
-    let allLocalChannels = [];
-
-    for (const url of SOURCES.LOCAL_JSON) {
-      const data = await safeFetch(url, "Local Tamil");
-      if (Array.isArray(data)) {
-        allLocalChannels = allLocalChannels.concat(data);
-      }
-    }
-
-    if (allLocalChannels.length > 0) {
-      out.push(
-        section("CS 📺 | Local Channel Tamil"),
-        convertLocalTamil(allLocalChannels)
-      );
-    }
-  }
-
   const hotstar = await safeFetch(SOURCES.HOTSTAR_M3U, "Hotstar");
-  if (hotstar) out.push(section("CS | Jio Cinema"), hotstar);
+  if (hotstar) out.push(section("CS OTT | Jio Cinema"), hotstar);
 
   const zee5 = await safeFetch(SOURCES.ZEE5_M3U, "ZEE5");
-  if (zee5) out.push(section("CS | ZEE5"), zee5);
+  if (zee5) out.push(section("CS OTT | ZEE5"), zee5);
 
   const jio = await safeFetch(SOURCES.JIO_JSON, "JIO");
-  if (jio) out.push(section("CS | JIOTV+"), convertJioJson(jio));
+  if (jio) out.push(section("JIOTV+"), convertJioJson(jio));
 
   const sports = await safeFetch(SOURCES.SPORTS_JSON, "Sports");
   if (sports) out.push(section("MATCHES"), convertSportsJson(sports));
-
-  const icc = await safeFetch(SOURCES.ICC_TV_JSON, "ICC TV");
-  if (icc) out.push(section("ICC TV"), icc);
 
   const sony = await safeFetch(SOURCES.SONYLIV_JSON, "SonyLiv");
   if (sony) out.push(section("SonyLiv | Sports"), sony);
 
   const fan = await safeFetch(SOURCES.FANCODE_JSON, "FanCode");
   if (fan) out.push(section("FanCode | Sports"), fan);
+
+  const icc = await safeFetch(SOURCES.ICC_TV_JSON, "ICC TV");
+  if (icc) out.push(section("ICC TV"), icc);
+
+  // NEW SOURCE GENERATOR
+  const songhar = await safeFetch(SOURCES.SONGHAR_SONYLIV, "Songhar SonyLiv");
+  if (songhar) out.push(section("CS OTT | SONYLIV"), songhar);
 
   out.push(PLAYLIST_FOOTER.trim());
 
