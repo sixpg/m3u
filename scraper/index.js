@@ -142,7 +142,7 @@ function convertSportsJson(json) {
     urlObj.searchParams.delete("User-Agent");
 
     out.push(
-      `#EXTINF:-1 tvg-id="${1100 + i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="SPORTS",${s.language}`,
+      `#EXTINF:-1 tvg-id="${1100 + i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="MATCHES",${s.language}`,
       `#KODIPROP:inputstream.adaptive.license_type=clearkey`,
       `#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`,
       `#EXTHTTP:${JSON.stringify({
@@ -187,11 +187,64 @@ async function run() {
   const out = [];
   out.push(PLAYLIST_HEADER.trim());
 
+  // LOCAL TELUGU
+  if (Array.isArray(SOURCES.TELUGU_JSON)) {
+    let allLocalChannels = [];
+
+    for (const url of SOURCES.TELUGU_JSON) {
+      const data = await safeFetch(url, "Local Telugu");
+      if (Array.isArray(data)) {
+        allLocalChannels = allLocalChannels.concat(data);
+      }
+    }
+
+    if (allLocalChannels.length > 0) {
+      out.push(
+        section("CS 📺 | Local Channel Telugu"),
+        convertLocalTelugu(allLocalChannels)
+      );
+    }
+  }
+
+  // LOCAL TAMIL
+  if (Array.isArray(SOURCES.LOCAL_JSON)) {
+    let allLocalChannels = [];
+
+    for (const url of SOURCES.LOCAL_JSON) {
+      const data = await safeFetch(url, "Local Tamil");
+      if (Array.isArray(data)) {
+        allLocalChannels = allLocalChannels.concat(data);
+      }
+    }
+
+    if (allLocalChannels.length > 0) {
+      out.push(
+        section("CS 📺 | Local Channel Tamil"),
+        convertLocalTamil(allLocalChannels)
+      );
+    }
+  }
+
+  const hotstar = await safeFetch(SOURCES.HOTSTAR_M3U, "Hotstar");
+  if (hotstar) out.push(section("CS | Jio Cinema"), hotstar);
+
+  const zee5 = await safeFetch(SOURCES.ZEE5_M3U, "ZEE5");
+  if (zee5) out.push(section("CS | ZEE5"), zee5);
+
   const jio = await safeFetch(SOURCES.JIO_JSON, "JIO");
-  if (jio) out.push(section("JIOTV+"), convertJioJson(jio));
+  if (jio) out.push(section("CS | JIOTV+"), convertJioJson(jio));
 
   const sports = await safeFetch(SOURCES.SPORTS_JSON, "Sports");
   if (sports) out.push(section("MATCHES"), convertSportsJson(sports));
+
+  const icc = await safeFetch(SOURCES.ICC_TV_JSON, "ICC TV");
+  if (icc) out.push(section("ICC TV"), icc);
+
+  const sony = await safeFetch(SOURCES.SONYLIV_JSON, "SonyLiv");
+  if (sony) out.push(section("SonyLiv | Sports"), sony);
+
+  const fan = await safeFetch(SOURCES.FANCODE_JSON, "FanCode");
+  if (fan) out.push(section("FanCode | Sports"), fan);
 
   out.push(PLAYLIST_FOOTER.trim());
 
