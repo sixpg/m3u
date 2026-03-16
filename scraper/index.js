@@ -10,10 +10,8 @@ const SOURCES = {
   JIO_JSON: "https://raw.githubusercontent.com/sixpg/jio/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
-  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.json",
+  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
   SPORTS_JSON: "https://sports.vodep39240327.workers.dev/sports.json",
-
-  // NEW SONYLIV DIGITAL SOURCE
   SONGHAR_SONYLIV: "https://raw.githubusercontent.com/Sflex0719/SonGharLive/main/SL.m3u",
 
   LOCAL_JSON: [
@@ -34,7 +32,7 @@ const SOURCES = {
   ],
 };
 
-// ================= HEADER =================
+// ================= PLAYLIST HEADER =================
 const PLAYLIST_HEADER = `#EXTM3U
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 #EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
@@ -54,10 +52,10 @@ function section(title) {
 }
 
 // ================= LOCAL TELUGU =================
-function convertLocalTelugu(arr) {
-  if (!Array.isArray(arr)) return "";
+function convertLocalTelugu(jsonArray) {
+  if (!Array.isArray(jsonArray)) return "";
   const out=[];
-  arr.forEach(ch=>{
+  jsonArray.forEach(ch=>{
     if(!ch.stream_url) return;
     out.push(`#EXTINF:-1 tvg-name="${ch.title}" tvg-logo="${ch.image}" group-title="CS 📺 | Local Channel Telugu",${ch.title}`);
     out.push(ch.stream_url);
@@ -66,10 +64,10 @@ function convertLocalTelugu(arr) {
 }
 
 // ================= LOCAL TAMIL =================
-function convertLocalTamil(arr) {
-  if (!Array.isArray(arr)) return "";
+function convertLocalTamil(jsonArray) {
+  if (!Array.isArray(jsonArray)) return "";
   const out=[];
-  arr.forEach(ch=>{
+  jsonArray.forEach(ch=>{
     if(!ch.stream_url) return;
     out.push(`#EXTINF:-1 tvg-name="${ch.title}" tvg-logo="${ch.image}" group-title="CS 📺 | Local Channel Tamil",${ch.title}`);
     out.push(ch.stream_url);
@@ -181,11 +179,11 @@ async function run(){
 
  // JIO
  const jio=await safeFetch(SOURCES.JIO_JSON);
- if(jio) out.push(section("JIOTV+"),convertJioJson(jio));
+ if(jio) out.push(section("Jiotv+"),convertJioJson(jio));
 
  // MATCHES
  const sports=await safeFetch(SOURCES.SPORTS_JSON);
- if(sports) out.push(section("MATCHES"),convertSportsJson(sports));
+ if(sports) out.push(section("Cricket | Live"),convertSportsJson(sports));
 
  // SONYLIV EVENTS
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
@@ -199,9 +197,18 @@ async function run(){
  const icc=await safeFetch(SOURCES.ICC_TV_JSON);
  if(icc) out.push(section("ICC TV"),icc);
 
- // SONYLIV DIGITAL
+ // SONYLIV DIGITAL (FORCE SINGLE FOLDER)
  const digital=await safeFetch(SOURCES.SONGHAR_SONYLIV);
- if(digital) out.push(section("CS OTT | SONYLIV"),digital);
+ if(digital){
+  const fixed=digital.split("\n").map(l=>{
+    if(l.startsWith("#EXTINF")){
+      return l.replace(/group-title="[^"]*"/,'group-title="CS OTT | SONY LIV"');
+    }
+    return l;
+  }).join("\n");
+
+  out.push(section("CS OTT | Sony Liv"),fixed);
+ }
 
  out.push(PLAYLIST_FOOTER.trim());
 
