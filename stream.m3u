@@ -5,7 +5,7 @@
 # ===== CosmicSports Playlist =====
 # Join Telegram: @FrostDrift7
 
-# ---------------=== CS | Jio Cinema ===-------------------
+# ---------------=== CS OTT | Jio Cinema ===-------------------
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="VT OTT | Jio Cinema",STAR VIJAY SUPER SINGER
@@ -331,7 +331,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a
 #EXTHTTP:{"Cookie":"hdntl=exp=1773741797~acl=%2f*~id=38e3a8440b9a797381973ee27f1253d1~data=hdntl~hmac=7a11c5ac8180bb019a02678cc0f1985e621fd93a49dc8cbebc6c60499d0fbab3","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd421d5/index.mpd
 
-# ---------------=== CS | ZEE5 ===-------------------
+# ---------------=== CS OTT | ZEE5 ===-------------------
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="VT OTT | Zee5",Zee Tamil HD
@@ -699,7 +699,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8?hdntl=ex
 #EXTHTTP:{"Origin":"https://www.zee5.com","Referer":"https://www.zee5.com/"}
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=exp=1773741807~acl=/*~id=bf9a3832-e695-48cd-8f6e-ea3a89a0b036~data=hdntl~hmac=073dd3c7fcf99266f542bf6148b85ff07b0c0ea25f1f66df6249b674df56f9fb
 
-# ---------------=== CS | JIOTV+ ===-------------------
+# ---------------=== JIOTV+ ===-------------------
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="JIOTV+ | BUSINESS NEWS",CNBC Tv18 Prime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
