@@ -16763,7 +16763,7 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648580399805_IFC_Chanmari_FC-vs-Shillong_Lajong_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Chanmari FC vs Shillong Lajong FC - 19 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773962704~acl=/*~id=50285470686471725494038118531328~hmac=3e9a08ca2d6f2c082125ae048af14545a6736c5f05528d1cba57786fb071f070
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773964555~acl=/*~id=29926898203038561311956842841148~hmac=10c69e56ac5c906d11cf287e59a567cd2022e3fa60dabeb9e03ec315ad1a7fca
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -16771,8 +16771,10 @@ https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010
 https://fanco.vodep39240327.workers.dev/141371_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" group-title="FanCode | Sports",Mumbai Mavericks Vs Punjab Lions
 https://fanco.vodep39240327.workers.dev/141214_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140819_5979_TPE-W_NK-W_fc-Web.jpg" group-title="FanCode | Sports",Chinese Taipei Women Vs Dpr Korea Women
-https://fanco.vodep39240327.workers.dev/140819_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" group-title="FanCode | Sports",Eagles Xi Vs Uganda
+https://fanco.vodep39240327.workers.dev/141447_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" group-title="FanCode | Sports",Marquee Feed   Day 1	
+https://fanco.vodep39240327.workers.dev/141389_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
