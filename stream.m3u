@@ -705,13 +705,12 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8?hdntl=e
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774103639842735_INT_Friendlies26_Armenia_vs_Belarus_20mar_landscape_thumb.jpg" group-title="SonyLiv | Sports",Armenia vs Belarus - 29 Mar 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/ArmeniaV2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774843175~acl=/*~id=77821464425133522749300598687908~hmac=e07e28ecb4e8e68c5456970da9d5c9ff7ac80ec6a2a7b2facb8974ac50749a8e
+
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141167_5826_LEI-W_BHA-W_FC-Web.jpg" group-title="FanCode | Sports",Leicester City Women Vs Brighton And Hove Albion Women
-https://fanco.vodep39240327.workers.dev/141167_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1774680543077/141492_CASACARDS_APP.png" group-title="FanCode | Sports",Real Zaragoza Vs Racing Club
+https://fanco.vodep39240327.workers.dev/141492_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Houston, Vs Texas
 https://fanco.vodep39240327.workers.dev/141598_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png" group-title="FanCode | Sports",Houston, Vs Texas
