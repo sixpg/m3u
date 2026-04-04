@@ -15411,7 +15411,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 
 # ---------------=== SonyLiv | Sports ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv | Sports",Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/FACup_Ma0404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775345636~acl=/*~id=48559936173234555073877187166349~hmac=3e3c0776512b69a24d7ad87b336a484072d1eb712e1f6f74f9a81c7619cc5c02
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv | Sports",Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/FACup_Ma0404/HIN/std_lrh-800300010.m3u8?hdnea=exp=1775345636~acl=/*~id=48559936173234555073877187166349~hmac=3e3c0776512b69a24d7ad87b336a484072d1eb712e1f6f74f9a81c7619cc5c02
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv | Sports",Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2005444/FACup_Ma0404/TAM/std_lrh-800300010.m3u8?hdnea=exp=1775345636~acl=/*~id=48559936173234555073877187166349~hmac=3e3c0776512b69a24d7ad87b336a484072d1eb712e1f6f74f9a81c7619cc5c02
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv | Sports",Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2005444/FACup_Ma0404/TEL/std_lrh-800300010.m3u8?hdnea=exp=1775345636~acl=/*~id=48559936173234555073877187166349~hmac=3e3c0776512b69a24d7ad87b336a484072d1eb712e1f6f74f9a81c7619cc5c02
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv | Sports",Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2005444/FACup_Ma0404/KAN/std_lrh-800300010.m3u8?hdnea=exp=1775345636~acl=/*~id=48559936173234555073877187166349~hmac=3e3c0776512b69a24d7ad87b336a484072d1eb712e1f6f74f9a81c7619cc5c02
 
 # ---------------=== FanCode | Sports ===-------------------
 
@@ -15419,10 +15428,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 https://fanco.vodep39240327.workers.dev/141647_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141741_6028_BNA_ISK_FC-WEB.jpg" group-title="FanCode | Sports",Brisbane Napoleans Vs Iconic Super Knights
 https://fanco.vodep39240327.workers.dev/141741_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140927_5802_MLC_SYW_fc-web.jpg" group-title="FanCode | Sports",Melbourne City Vs Western Sydney Wanderers
-https://fanco.vodep39240327.workers.dev/140927_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141617_6021_BAN-U20_CHN-U20_FC-Web.png" group-title="FanCode | Sports",Bangladesh U20 Vs China Pr U20
-https://fanco.vodep39240327.workers.dev/141617_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png" group-title="FanCode | Sports",Bucharest, Vs Romania
 https://fanco.vodep39240327.workers.dev/141294_english.m3u8
 # =========================================
