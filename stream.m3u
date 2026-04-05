@@ -15412,14 +15412,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_MOB/WDVLive/index.mpd?__hdnea__=st=
 # ---------------=== SonyLiv | Sports ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439731299819_IFC_Sreenidi_Deccan_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="SonyLiv | Sports",Sreenidi Deccan FC vs Aizawl FC - 5 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Sreenidi0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775439145~acl=/*~id=44920908963823077143514515257691~hmac=3156cb33fa1aa689c457c437a405cdfe4491e7e3baad10368ce81a4978239824
+https://sonydaimenew.akamaized.net/hls/live/20000291/Sreenidi0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775441573~acl=/*~id=55858648259664873445146899227360~hmac=ad3e5dfa0ebf0ba8330ec3f1c2f4e8d55752bdb03039de0c9dbacff2168b0f37
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774527175601346_BLIGA_26_MD28_Union-Berlin-vs-St-Pauli_landscape_thumb.jpg" group-title="SonyLiv | Sports",Union Berlin vs St. Pauli - MD 28 - 5 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/UnionBer0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775439145~acl=/*~id=44920908963823077143514515257691~hmac=3156cb33fa1aa689c457c437a405cdfe4491e7e3baad10368ce81a4978239824
+https://sonydaimenew.akamaized.net/hls/live/20000292/UnionBer0504/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775441573~acl=/*~id=55858648259664873445146899227360~hmac=ad3e5dfa0ebf0ba8330ec3f1c2f4e8d55752bdb03039de0c9dbacff2168b0f37
 
 # ---------------=== FanCode | Sports ===-------------------
 
-#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg" group-title="FanCode | Sports",Sporting Club Delhi Vs Kerala Blasters Fc
-https://fanco.vodep39240327.workers.dev/141804_malayalam.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/131120_5427_VAL_CEV_FC-Web.png" group-title="FanCode | Sports",Valencia Cf Vs Rc Celta
+https://fanco.vodep39240327.workers.dev/131120_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/141622_6021_CT-U20_JP-U20_FC-Web.png" group-title="FanCode | Sports",Chinese Taipei U20 Vs Japan U20
+https://fanco.vodep39240327.workers.dev/141622_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png" group-title="FanCode | Sports",Uzbekistan U20 Vs Dpr Korea U20
 https://fanco.vodep39240327.workers.dev/141621_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg" group-title="FanCode | Sports",Iii Vs Monte-carlo
@@ -15436,6 +15438,8 @@ https://fanco.vodep39240327.workers.dev/141655_english.m3u8
 https://fanco.vodep39240327.workers.dev/141795_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
 https://fanco.vodep39240327.workers.dev/141794_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png" group-title="FanCode | Sports",Antonio, Vs Texas
+https://fanco.vodep39240327.workers.dev/141793_english.m3u8
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
